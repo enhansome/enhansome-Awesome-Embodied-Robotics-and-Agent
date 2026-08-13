@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "description": "[2026/05/11] 🎉 Add NavSpace: How Intelligent Agents Follow Spatial Intelligence Instructions (ICRA 2026), the first benchmark for evaluating spatial intelligence in embodied navigation, with open-sourced dataset, evaluation code, and baseline SNav. [arXiv] [Github] [2025/10/30] 🎉 Our survey paper \"A Survey on Efficient Vision-Language-Action Models\" [arXiv] has been released! [2025/04/23] Add π-0.5, a lightweight and modular framework designed to integrate perception, control, and learning directly within physical systems. [2025/03/18] Add some popular vision-language action (VLA) models. 🦾 [2024/06/28] Created a new board about agent self-evolutionary research. 🤖 [2024/06/07] Add Mobile-Agent-v2, a mobile device operation assistant with effective navigation via multi-agent collaboration. 🚀 [2024/05/13] Add \"Learning Interactive Real-World Simulators\"——outstanding paper award in ICLR 2024 🥇. [2024/04/24] Add \"A Survey on Self-Evolution of Large Language Models\", a systematic survey on self-evolution in LLMs! 💥 [2024/04/16] Add some CVPR 2024 papers. [2024/04/15] Add MetaGPT, accepted for oral presentation (top 1.2%) at ICLR 2024, ranking #1 in the LLM-based Agent category. 🚀 [2024/03/13] Add CRADLE, an interesting paper exploring LLM-based agent in Red Dead Redemption II！🎮",
+      "items": [],
+      "title": "News🔥"
+    },
+    {
+      "description": "Figure 1. The Organization of Our Survey. We systematically categorize efficient VLAs into three core pillars: (1) Efficient Model Design, encompassing efficient architectures and model compression techniques, (2) Efficient Training, covering efficient pre-training and post-training strategies, and (3) Efficient Data Collection, including efficient data collection and augmentation methods. The framework also reviews VLA foundations, key applications, challenges, and future directions, establishing the groundwork for advancing scalable embodied intelligence.",
+      "items": [],
+      "title": "Development of Embodied Robotics and Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Large Multimodal Agents: A Survey",
+          "description": "[arXiv 2024.02] [Github] Junlin Xie♣♡ Zhihong Chen♣♡ Ruifei Zhang♣♡ Xiang Wan♣ Guanbin Li♠ ♡The Chinese University of Hong Kong, Shenzhen ♣Shenzhen Research Institute of Big Data, ♠Sun Yat-sen University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-25T12:56:24Z",
+            "owner": "jun0wanan",
+            "repo": "awesome-large-multimodal-agents",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Efficient Vision-Language-Action Models",
+          "description": "[arXiv 2025.10] [Github] [Project Page] Zhaoshu Yu1, Bo Wang1, Pengpeng Zeng1, Haonan Zhang1, Ji Zhang1, Lianli Gao3, Jingkuan Song1, Nicu Sebe4, Heng Tao Shen1 1 Tongji University, 2 Southwest Jiaotong University, 3 University of Electronic Science and Technology of China, 4 University of Trento",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T03:17:41Z",
+            "owner": "YuZhaoshu",
+            "repo": "Efficient-VLAs-Survey",
+            "stars": 175
+          }
+        }
+      ],
+      "title": "Methods"
+    },
+    {
+      "description": "Thanks to everyone who has contributed to this repository! Special thanks to those who submitted PRs with solid work—your efforts make this project better and stronger. 🚀✨",
+      "items": [],
+      "title": "Acknowledge"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:48.208Z",
+    "original_repository": "zchoi/Awesome-Embodied-Robotics-and-Agent",
+    "original_repository_sha": "d7bba3b79c5b5c3a3a694597b6244874f296017f",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
+    "enhanced_repository_description": null,
+    "title": "🤖 Awesome Embodied Robotics and Agent with stars"
+  }
+}
