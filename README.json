@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "[2026/05/11] 🎉 Add NavSpace: How Intelligent Agents Follow Spatial Intelligence Instructions (ICRA 2026), the first benchmark for evaluating spatial intelligence in embodied navigation, with open-sourced dataset, evaluation code, and baseline SNav. [arXiv] [Github] [2025/10/30] 🎉 Our survey paper \"A Survey on Efficient Vision-Language-Action Models\" [arXiv] has been released! [2025/04/23] Add π-0.5, a lightweight and modular framework designed to integrate perception, control, and learning directly within physical systems. [2025/03/18] Add some popular vision-language action (VLA) models. 🦾 [2024/06/28] Created a new board about agent self-evolutionary research. 🤖 [2024/06/07] Add Mobile-Agent-v2, a mobile device operation assistant with effective navigation via multi-agent collaboration. 🚀 [2024/05/13] Add \"Learning Interactive Real-World Simulators\"——outstanding paper award in ICLR 2024 🥇. [2024/04/24] Add \"A Survey on Self-Evolution of Large Language Models\", a systematic survey on self-evolution in LLMs! 💥 [2024/04/16] Add some CVPR 2024 papers. [2024/04/15] Add MetaGPT, accepted for oral presentation (top 1.2%) at ICLR 2024, ranking #1 in the LLM-based Agent category. 🚀 [2024/03/13] Add CRADLE, an interesting paper exploring LLM-based agent in Red Dead Redemption II！🎮",
-      "items": [],
-      "title": "News🔥"
-    },
-    {
-      "description": "Figure 1. The Organization of Our Survey. We systematically categorize efficient VLAs into three core pillars: (1) Efficient Model Design, encompassing efficient architectures and model compression techniques, (2) Efficient Training, covering efficient pre-training and post-training strategies, and (3) Efficient Data Collection, including efficient data collection and augmentation methods. The framework also reviews VLA foundations, key applications, challenges, and future directions, establishing the groundwork for advancing scalable embodied intelligence.",
-      "items": [],
-      "title": "Development of Embodied Robotics and Benchmarks"
-    },
-    {
-      "description": "",
+      "description": "Survey\nVision-Language-Action Model\nSelf-Evolving Agents\nAdvanced Agent Applications\nLLMs with RL or World Model\nPlanning and Manipulation or Pretraining\nMulti-Agent Learning and Coordination\nVision and Language Navigation\nDetection\n3D Grounding\nInteractive Embodied Learning\nRearrangement\nBenchmark\nSimulator\nOthers",
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749300380,
             "language": null,
             "last_commit": "2024-09-25T12:56:24Z",
             "owner": "jun0wanan",
@@ -34,25 +25,817 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1055452952,
             "language": null,
             "last_commit": "2026-08-10T03:17:41Z",
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
             "stars": 177
           }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+          "description": "[arXiv 2024.01] [Github][Project page][HuggingFace🤗] Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 814864073,
+            "language": "Python",
+            "last_commit": "2025-03-23T23:41:01Z",
+            "owner": "openvla",
+            "repo": "openvla",
+            "stars": 6849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning",
+          "description": "[arXiv 2026] [Github][Project page] AMAP CV Lab, Alibaba Group",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154460916,
+            "language": "Python",
+            "last_commit": "2026-07-22T04:30:18Z",
+            "owner": "amap-cvlab",
+            "repo": "ABot-Manipulation",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robotic Control via Embodied Chain-of-Thought Reasoning",
+          "description": "[CoRL 2024] [Github][Project page][HuggingFace🤗] Michał Zawalski∗1,2, William Chen∗1, Karl Pertsch1,3 Oier Mees1, Chelsea Finn3, Sergey Levine1 1UC Berkeley, 2University of Warsaw, 3Stanford University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 826686193,
+            "language": "Python",
+            "last_commit": "2025-04-05T21:48:31Z",
+            "owner": "MichalZawalski",
+            "repo": "embodied-CoT",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks",
+          "description": "[arXiv 2025.03] [Github] [Project Page] [HuggingFace🤗] Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba Group",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 952589852,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:25:21Z",
+            "owner": "ZJU-OmniAI",
+            "repo": "Embodied-Omni",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI",
+          "description": "[ICLR 2026] [Github][Project page][HuggingFace🤗] Stanford University, Seoul National University, MAUM.AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1075212517,
+            "language": "Python",
+            "last_commit": "2026-07-16T07:07:34Z",
+            "owner": "worv-ai",
+            "repo": "D2E",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symbolic Learning Enables Self-Evolving Agents",
+          "description": "[arXiv 2024.06] [Github] Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang AIWaves Inc. https://meta-control-paper.github.io/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 667645956,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGENTGYM: Evolving Large Language Model-based Agents across Diverse Environments",
+          "description": "[arXiv 2024.06] [Github] [Project page] Fudan NLP Lab & Fudan Vision and Learning Lab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 806444030,
+            "language": "Python",
+            "last_commit": "2026-05-30T14:12:49Z",
+            "owner": "WooooDyy",
+            "repo": "AgentGym",
+            "stars": 830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models",
+          "description": "[arXiv 2024.06] [Github] Fangzhi Xu♢♡, Qiushi Sun2, ♡, Kanzhi Cheng1, Jun Liu♢, Yu Qiao♡, Zhiyong Wu♡ ♢Xi’an Jiaotong University, ♡Shanghai Artificial Intelligence Laboratory, 1The University of Hong Kong, 2Nanjing Univerisity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 792995075,
+            "language": "C",
+            "last_commit": "2025-06-01T15:55:05Z",
+            "owner": "xufangzhi",
+            "repo": "ENVISIONS",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration",
+          "description": "[arXiv 2024] [Github] Junyang Wang1, Haiyang Xu2, Haitao Jia1, Xi Zhang2, Ming Yan2, Weizhou Shen2, Ji Zhang2, Fei Huang2, Jitao Sang1 1Beijing Jiaotong University 2Alibaba Group",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748674684,
+            "language": "Python",
+            "last_commit": "2026-07-07T09:22:18Z",
+            "owner": "X-PLUG",
+            "repo": "MobileAgent",
+            "stars": 9103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mobile-Agent: The Powerful Mobile Device Operation Assistant Family",
+          "description": "[ICLR 2024 Workshop LLM Agents] [Github] Junyang Wang1, Haiyang Xu2, Jiabo Ye2, Ming Yan2, Weizhou Shen2, Ji Zhang2, Fei Huang2, Jitao Sang1 1Beijing Jiaotong University 2Alibaba Group",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 748674684,
+            "language": "Python",
+            "last_commit": "2026-07-07T09:22:18Z",
+            "owner": "X-PLUG",
+            "repo": "MobileAgent",
+            "stars": 9103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppAgent: Multimodal Agents as Smartphone Users",
+          "description": "[Project page] [Github] Chi Zhang∗ ZhaoYang∗ JiaxuanLiu∗ YuchengHan XinChen Zebiao Huang BinFu GangYu† Tencent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 733899994,
+            "language": "Python",
+            "last_commit": "2025-03-19T11:01:38Z",
+            "owner": "TencentQQGYLab",
+            "repo": "AppAgent",
+            "stars": 6847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Embodied-agents] [Github",
+          "description": "] Seamlessly integrate state-of-the-art transformer models into robotics stacks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 804600851,
+            "language": "Python",
+            "last_commit": "2025-12-16T18:07:50Z",
+            "owner": "mbodiai",
+            "repo": "embodied-agents",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[ros2_medkit] [Github",
+          "description": "] [MCP Server] LLM-powered robot diagnostics for ROS 2 — fault detection, root cause analysis, and self-healing via MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1098436077,
+            "language": "C++",
+            "last_commit": "2026-08-17T12:11:34Z",
+            "owner": "selfpatch",
+            "repo": "ros2_medkit",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Machinascript-for-robots] [Github",
+          "description": "] Build LLM-powered robots in your garage with MachinaScript For Robots!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 751063511,
+            "language": "Python",
+            "last_commit": "2024-09-28T03:54:44Z",
+            "owner": "babycommando",
+            "repo": "machinascript-for-robots",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model",
+          "description": "[CVPR 2024] [Github] Lirui Zhao1,2 Yue Yang2,4 Kaipeng Zhang2 Wenqi Shao2, Yuxin Zhang1, Yu Qiao2, Ping Luo2,3 Rongrong Ji1 1Xiamen University, 2OpenGVLab, Shanghai AI Laboratory 3The University of Hong Kong, 4Shanghai Jiao Tong University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 773324685,
+            "language": null,
+            "last_commit": "2024-04-16T03:57:45Z",
+            "owner": "OpenGVLab",
+            "repo": "DiffAgent",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eureka: Human-Level Reward Design via Coding Large Language Models",
+          "description": "[NeurIPS 2023 Workshop ALOE Spotlight] [Project page] [Github] Jason Ma1,2, William Liang2, Guanzhi Wang1,3, De-An Huang1, Osbert Bastani2, Dinesh Jayaraman2, Yuke Zhu1,4, Linxi \"Jim\" Fan1, Anima Anandkumar1,3 1NVIDIA; 2UPenn; 3Caltech; 4UT Austin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 696418559,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-03T07:31:13Z",
+            "owner": "eureka-research",
+            "repo": "Eureka",
+            "stars": 3185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents",
+          "description": "[NeurIPS 2025] [Project Page] [Github] Kangrui Wang, Pingyue Zhang, Zihan Wang, Yaning Gao, Linjie Li, Qineng Wang, Hanyang Chen, Chi Wan, Yiping Lu, Zhengyuan Yang, Lijuan Wang, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Yejin Choi, Manling Li",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 942934124,
+            "language": "Python",
+            "last_commit": "2026-08-15T22:56:43Z",
+            "owner": "mll-lab-nu",
+            "repo": "VAGEN",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning",
+          "description": "[NeurIPS 2023] [Project Page][Github] Lin_Guan1, Karthik Valmeekam1, Sarath Sreedharan2, Subbarao Kambhampati1 1School of Computing & AI Arizona State University Tempe, AZ, 2Department of Computer Science Colorado State University Fort Collins, CO",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645983077,
+            "language": "Python",
+            "last_commit": "2024-08-11T20:53:58Z",
+            "owner": "GuanSuns",
+            "repo": "LLMs-World-Models-for-Planning",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld",
+          "description": "[CVPR 2024] [Github] Yijun Yang154, Tianyi Zhou2, Kanxue Li3, Dapeng Tao3, Lvsong Li4, Li Shen4, Xiaodong He4, Jing Jiang5, Yuhui Shi1 1Southern University of Science and Technology, 2University of Maryland, College Park, 3Yunnan University, 4JD Explore Academy, 5University of Technology Sydney",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 724457375,
+            "language": "Python",
+            "last_commit": "2026-03-06T17:05:26Z",
+            "owner": "stevenyangyj",
+            "repo": "Emma-Alfworld",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Reward Modulation for Pretraining Reinforcement Learning",
+          "description": "[arXiv 2023] [Github] Ademi Adeniji, Amber Xie, Carmelo Sferrazza, Younggyo Seo, Stephen James, Pieter Abbeel 1UC Berkeley",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 681752008,
+            "language": "Python",
+            "last_commit": "2024-01-29T07:07:07Z",
+            "owner": "ademiadeniji",
+            "repo": "lamp",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+          "description": "[NeurIPS 2023 Workshop ALOE Spotlight] [Project page] [Github] Guanzhi Wang1,2, Yuqi Xie3, Yunfan Jiang4, Ajay Mandlekar1, Chaowei Xiao1,5, Yuke Zhu1,3, Linxi Fan1, Anima Anandkumar1,2 1NVIDIA, 2Caltech, 3UT Austin, 4Stanford, 5UW Madison",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645471238,
+            "language": "JavaScript",
+            "last_commit": "2024-04-03T18:51:36Z",
+            "owner": "MineDojo",
+            "repo": "Voyager",
+            "stars": 7148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3D-LLM: Injecting the 3D World into Large Language Models",
+          "description": "[arXiv 2023] 1Yining Hong, 2Haoyu Zhen, 3Peihao Chen, 4Shuhong Zheng, 5Yilun Du, 6Zhenfang Chen, 6,7Chuang Gan 1UCLA 2 SJTU 3 SCUT 4 UIUC 5 MIT 6MIT-IBM Watson AI Lab 7 Umass Amherst",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670231330,
+            "language": "Python",
+            "last_commit": "2024-06-06T19:14:00Z",
+            "owner": "UMass-Embodied-AGI",
+            "repo": "3D-LLM",
+            "stars": 1210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents",
+          "description": "[arXiv 2022] [Github] [Project page] Wenlong Huang1, Pieter Abbeel1, Deepak Pathak2, Igor Mordatch3 1UC Berkeley, 2Carnegie Mellon University, 3Google",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 444122251,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-05-16T00:24:12Z",
+            "owner": "huangwl18",
+            "repo": "language-planner",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics",
+          "description": "[Arxiv 2025] [Project Page] [Code] Enshen Zhou1,2,, Jingkun An1,, Cheng Chi2,* 1Beihang University, 2Beijing Academy of Artificial Intelligence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 995955094,
+            "language": "Python",
+            "last_commit": "2025-12-16T08:22:40Z",
+            "owner": "Zhoues",
+            "repo": "RoboRefer",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models",
+          "description": "[ICCV 2023] [Project page] [Github] Chan Hee Song1, Jiaman Wu1, Clayton Washington1, Brian M. Sadler2, Wei-Lun Chao1, Yu Su1 1The Ohio State University, 2DEVCOM ARL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665773800,
+            "language": "C",
+            "last_commit": "2025-03-26T07:25:16Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "LLM-Planner",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embodied Task Planning with Large Language Models",
+          "description": "[arXiv 2023] [Github] [Project page] [Demo] [Huggingface Model] Zhenyu Wu1, Ziwei Wang2,3, Xiuwei Xu2,3, Jiwen Lu2,3, Haibin Yan1* 1School of Automation, Beijing University of Posts and Telecommunications, 2Department of Automation, Tsinghua University, 3Beijing National Research Center for Information Science and Technology",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661732596,
+            "language": "Python",
+            "last_commit": "2023-08-22T12:36:24Z",
+            "owner": "Gary3410",
+            "repo": "TaPA",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
+          "description": "[CVPR 2025 (Oral)] [Project Page] [Code] Chan Hee Song1, Valts Blukis2, Jonathan Tremblay2, Stephen Tyree2, Yu Su1, Stan Birchfield2 1The Ohio State University, 2NVIDIA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944753286,
+            "language": "Python",
+            "last_commit": "2026-06-17T00:50:17Z",
+            "owner": "NVlabs",
+            "repo": "RoboSpatial",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Models Meet World Models: Embodied Experiences Enhance Language Models",
+          "description": "[arXiv 2023] [Twitter] Jiannan Xiang∗♠, Tianhua Tao∗♠, Yi Gu♠, Tianmin Shu♢, Zirui Wang♠, Zichao Yang♡, Zhiting Hu♠ ♠UC San Diego, ♣UIUC, ♢MIT, ♡Carnegie Mellon University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643407037,
+            "language": "Python",
+            "last_commit": "2024-07-10T17:32:15Z",
+            "owner": "szxiangjn",
+            "repo": "world-model-for-language-model",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization",
+          "description": "[ACL 2024][Github] Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764136145,
+            "language": "Python",
+            "last_commit": "2024-09-02T13:56:23Z",
+            "owner": "ZJU-OmniAI",
+            "repo": "Agent-Pro",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FILM: Following Instructions in Language with Modular Methods",
+          "description": "[ICLR 2022] [Github] [Project page] So Yeon Min1, Devendra Singh Chaplot2, Pradeep Ravikumar1, Yonatan Bisk1, Ruslan Salakhutdinov1 1Carnegie Mellon University 2Facebook AI Research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 461897783,
+            "language": "Python",
+            "last_commit": "2023-04-09T17:22:21Z",
+            "owner": "soyeonm",
+            "repo": "FILM",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning",
+          "description": "[CVPR 2022 (Oral)] [Project page] [Github] Santhosh Kumar Ramakrishnan1,2, Devendra Singh Chaplot1, Ziad Al-Halah2 Jitendra Malik1,3, Kristen Grauman1,2 1Facebook AI Research, 2UT Austin, 3UC Berkeley",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504364821,
+            "language": "Python",
+            "last_commit": "2022-12-29T20:27:28Z",
+            "owner": "srama2512",
+            "repo": "PONI",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Persistent Spatial Semantic Representation for High-level Natural Language Instruction Execution",
+          "description": "[CoRL 2021] [Project page] [Poster] Valts Blukis1,2, Chris Paxton1, Dieter Fox1,3, Animesh Garg1,4, Yoav Artzi2 1NVIDIA 2Cornell University 3University of Washington 4University of Toronto, Vector Institute",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 406509520,
+            "language": "Python",
+            "last_commit": "2022-06-24T20:00:41Z",
+            "owner": "valtsblukis",
+            "repo": "hlsm",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planning with the Views via Scene Self-Exploration",
+          "description": "[arXiv 2026.05] [Project Page] [Github] Kangrui Wang, Linjie Li, Zhengyuan Yang, Shiqi Chen, Zihan Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Lijuan Wang, Manling Li",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232701426,
+            "language": "Python",
+            "last_commit": "2026-08-14T10:58:21Z",
+            "owner": "mll-lab-nu",
+            "repo": "ViewAgent",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moving Forward by Moving Backward: Embedding Action Impact over Action Semantics",
+          "description": "[ICLR 2023] [Project page] [Github] Kuo-Hao Zeng1, Luca Weihs2, Roozbeh Mottaghi1, Ali Farhadi1 1Paul G. Allen School of Computer Science & Engineering, University of Washington, 2PRIOR @ Allen Institute for AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607577360,
+            "language": "Python",
+            "last_commit": "2023-09-28T06:07:47Z",
+            "owner": "KuoHaoZeng",
+            "repo": "AAP",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Modular Control for Embodied Question Answering",
+          "description": "[CoRL 2018 (Spotlight)] [Project page] [Github] Abhishek Das1,Georgia Gkioxari2, Stefan Lee1, Devi Parikh1,2, Dhruv Batra1,2 1Georgia Institute of Technology 2Facebook AI Research",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 137247305,
+            "language": "Python",
+            "last_commit": "2023-07-25T15:23:56Z",
+            "owner": "facebookresearch",
+            "repo": "EmbodiedQA",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embodied Question Answering",
+          "description": "[CVPR 2018 (oral)] [Project page] [Github] Abhishek Das1, Samyak Datta1, Georgia Gkioxari22, Stefan Lee1, Devi Parikh2,1, Dhruv Batra2 1Georgia Institute of Technology, 2Facebook AI Research",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 137247305,
+            "language": "Python",
+            "last_commit": "2023-07-25T15:23:56Z",
+            "owner": "facebookresearch",
+            "repo": "EmbodiedQA",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Affordance Landscapes for Interaction Exploration in 3D Environments",
+          "description": "[NeurIPS 2020] [Project page] Tushar Nagarajan, Kristen Grauman UT Austin and Facebook AI Research, UT Austin and Facebook AI Research",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 285085844,
+            "language": "Python",
+            "last_commit": "2023-07-06T22:16:40Z",
+            "owner": "facebookresearch",
+            "repo": "interaction-exploration",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation",
+          "description": "[arXiv 2023] [Project page] [Github] Yufei Wang1, Zhou Xian1, Feng Chen2, Tsun-Hsuan Wang3, Yian Wang4, Katerina Fragkiadaki1, Zackory Erickson1, David Held1, Chuang Gan4,5 1CMU, 2Tsinghua IIIS, 3MIT CSAIL, 4UMass Amherst, 5MIT-IBM AI Lab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 712599607,
+            "language": "Python",
+            "last_commit": "2024-05-31T01:32:29Z",
+            "owner": "Genesis-Embodied-AI",
+            "repo": "RoboGen",
+            "stars": 1221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIMA: Robot Manipulation with Multimodal Prompts",
+          "description": "[ICML 2023] [Project page] [Github] [VIMA-Bench] Yunfan Jiang1 Agrim Gupta1† Zichen Zhang2† Guanzhi Wang3,4† Yongqiang Dou5 Yanjun Chen1 Li Fei-Fei1 Anima Anandkumar3,4 Yuke Zhu3,6‡ Linxi Fan3‡",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 547079255,
+            "language": "Python",
+            "last_commit": "2024-04-18T18:57:22Z",
+            "owner": "vimalabs",
+            "repo": "VIMA",
+            "stars": 856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+          "description": "[ICLR 2021] [Project page] [Github] Mohit Shridhar† Xingdi Yuan♡ Marc-Alexandre Côté♡ Yonatan Bisk‡ Adam Trischler♡ Matthew Hausknecht♣ ‡University of Washington ♡Microsoft Research, Montréal ‡Carnegie Mellon University ♣Microsoft Research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303795676,
+            "language": "Python",
+            "last_commit": "2026-02-08T15:40:09Z",
+            "owner": "alfworld",
+            "repo": "alfworld",
+            "stars": 837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks",
+          "description": "[CVPR 2020] [Project page] [Github] Mohit Shridhar1 Jesse Thomason1 Daniel Gordon1 Yonatan Bisk1,2,3 Winson Han3 Roozbeh Mottaghi1,3 Luke Zettlemoyer1 Dieter Fox1,4 1Paul G. Allen School of Computer Sci. & Eng., Univ. of Washington, 2Language Technologies Institute @ Carnegie Mellon University, 3Allen Institute for AI, 4NVIDIA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227495032,
+            "language": "C",
+            "last_commit": "2026-02-05T10:08:24Z",
+            "owner": "askforalfred",
+            "repo": "alfred",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQA3D: Situated Question Answering in 3D Scenes",
+          "description": "[ICLR 2023] [Project page] [Slides] [Github] Xiaojian Ma2 Silong Yong1,3* Zilong Zheng1 Qing Li1 Yitao Liang1,4 Song-Chun Zhu1,2,3,4 Siyuan Huang1 1Beijing Institute for General Artificial Intelligence (BIGAI) 2UCLA 3Tsinghua University 4Peking University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 558831479,
+            "language": "Python",
+            "last_commit": "2023-10-13T06:14:57Z",
+            "owner": "SilongYong",
+            "repo": "SQA3D",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartPlay: A Benchmark for LLMs as Intelligent Agents",
+          "description": "[ICLR 2024] [Github] Yue Wu1,2, Xuan Tang1, Tom Mitchell1, Yuanzhi Li1,2 1Carnegie Mellon University, 2Microsoft Research",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 699399792,
+            "language": "Python",
+            "last_commit": "2024-04-11T03:40:29Z",
+            "owner": "microsoft",
+            "repo": "SmartPlay",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IQA: Visual Question Answering in Interactive Environments",
+          "description": "[CVPR 2018] [Github] [Demo video (YouTube)] Danie1 Gordon1 Aniruddha Kembhavi2 Mohammad Rastegari2,4 Joseph Redmon1 Dieter Fox1,3 Ali Farhadi1,2 1Paul G. Allen School of Computer Science, University of Washington 2Allen Institute for Artificial Intelligence 3Nvidia 4Xnor.ai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136536545,
+            "language": "Python",
+            "last_commit": "2020-02-11T16:06:32Z",
+            "owner": "danielgordon10",
+            "repo": "thor-iqa-cvpr-2018",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NavSpace: How Intelligent Agents Follow Spatial Intelligence Instructions",
+          "description": "[ICRA 2026] [Github] Haolin Yang1,2,, Yuxing Long1,2,, Zhuoyuan Yu1,2, Zihan Yang1, Minghan Wang1, Jiapeng Xu1, Yihan Wang1, Ziyan Yu1, Wenzhe Cai3, Lei Kang1, Hao Dong1,2,† *Equal Contribution †Corresponding author 1CFCS, School of Computer Science, Peking University, 2PrimeBot, 3Shanghai AI Lab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066090818,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:57:30Z",
+            "owner": "TidalHarley",
+            "repo": "NavSpace",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments",
+          "description": "[ICCV 2021] [Project page] [Github] Difei Gao1,2, Ruiping Wang1,2,3, Ziyi Bai1,2, Xilin Chen1, 1Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, 2University of Chinese Academy of Sciences, 3Beijing Academy of Artificial Intelligence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 516660780,
+            "language": "Python",
+            "last_commit": "2022-07-22T08:54:14Z",
+            "owner": "maybelu9",
+            "repo": "env-qa",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habitat: A Platform for Embodied AI Research",
+          "description": "[ICCV 2019] [Project page] [Habitat-Sim] [Habitat-Lab] [Habitat Challenge] Facebook AI Research, Facebook Reality Labs, Georgia Institute of Technology, Simon Fraser University, Intel Labs, UC Berkeley",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169164539,
+            "language": "C++",
+            "last_commit": "2026-07-21T10:16:05Z",
+            "owner": "facebookresearch",
+            "repo": "habitat-sim",
+            "stars": 3794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI2-THOR: An Interactive 3D Environment for Visual AI",
+          "description": "[arXiv 2022] [Project page] [Github] Allen Institute for AI, University of Washington, Stanford University, Carnegie Mellon University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107305157,
+            "language": "C#",
+            "last_commit": "2025-11-04T06:09:29Z",
+            "owner": "allenai",
+            "repo": "ai2thor",
+            "stars": 1783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI",
+          "description": "[ICCV 2025 (Highlight)] [Project page] [Github] Fangwei Zhong1,6, Kui Wu2, Churan Wang3, Hao Chen4, Hai Ci5, Zhoujun Li2, Yizhou Wang3 1Beijing Normal University, 2Beihang University, 3Peking University, 4City University of Macau, 5National University of Singapore, 6Beijing Institute for General Artificial Intelligence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 904869925,
+            "language": "Python",
+            "last_commit": "2026-08-19T06:28:30Z",
+            "owner": "UnrealZoo",
+            "repo": "unrealzoo-gym",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEGENT: Open Platform for Embodied Agents",
+          "description": "[ACL 2024] [Project page] [Github] Tsinghua University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 771364938,
+            "language": "Python",
+            "last_commit": "2025-01-12T21:11:35Z",
+            "owner": "thunlp",
+            "repo": "LEGENT",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React: Synergizing reasoning and acting in language models",
+          "description": "[ICLR 2023] Shunyu Yao1∗, Jeffrey Zhao2, Dian Yu2, Nan Du2, Izhak Shafran2, Karthik Narasimhan1, Yuan Cao2 1Department of Computer Science, Princeton University 2, Google Research, Brain team",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 565563619,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-06T02:34:32Z",
+            "owner": "ysymyth",
+            "repo": "ReAct",
+            "stars": 4113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LISA: Reasoning Segmentation via Large Language Model",
+          "description": "[arXiv 2023] [Github] [Huggingface Models] [Dataset] [Online Demo]TXin Lai1 Zhuotao Tian2 Yukang Chen1 Yanwei Li1 Yuhui Yuan3 Shu Liu2 Jiaya Jia1,2 1The Chinese University of Hong Kong 2SmartMore 3MSRA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673431525,
+            "language": "Python",
+            "last_commit": "2025-02-16T13:33:08Z",
+            "owner": "JIA-Lab-research",
+            "repo": "LISA",
+            "stars": 2672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+          "description": "[NeurIPS 2022] [Github] [Project page] [Knowledge Base] Linxi Fan1 , Guanzhi Wang2∗ , Yunfan Jiang3* , Ajay Mandlekar1 , Yuncong Yang4 , Haoyi Zhu5 , Andrew Tang4 , De-An Huang1 , Yuke Zhu1,6† , Anima Anandkumar1,2† 1NVIDIA, 2Caltech, 3Stanford, 4Columbia, 5SJTU, 6UT Austin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 504884280,
+            "language": "Java",
+            "last_commit": "2024-03-18T18:10:28Z",
+            "owner": "MineDojo",
+            "repo": "MineDojo",
+            "stars": 2249
+          }
         }
       ],
       "title": "Methods"
-    },
-    {
-      "description": "Thanks to everyone who has contributed to this repository! Special thanks to those who submitted PRs with solid work—your efforts make this project better and stronger. 🚀✨",
-      "items": [],
-      "title": "Acknowledge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:21:29.758Z",
+    "last_updated": "2026-08-19T12:07:49.044Z",
     "original_repository": "zchoi/Awesome-Embodied-Robotics-and-Agent",
+    "original_repository_id": 668159220,
     "original_repository_sha": "a32e10b1088c6478377fe615cf1a8d095b0b2232",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
