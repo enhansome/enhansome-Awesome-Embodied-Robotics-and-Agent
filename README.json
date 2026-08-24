@@ -45,7 +45,7 @@
             "last_commit": "2025-03-23T23:41:01Z",
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6887
+            "stars": 6886
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9119
+            "stars": 9120
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9119
+            "stars": 9120
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-03-19T11:01:38Z",
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6858
+            "stars": 6859
           }
         },
         {
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 1098436077,
             "language": "C++",
-            "last_commit": "2026-08-24T13:40:34Z",
+            "last_commit": "2026-08-24T18:01:14Z",
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 252
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:44.000Z",
+    "last_updated": "2026-08-24T18:23:52.995Z",
     "original_repository": "zchoi/Awesome-Embodied-Robotics-and-Agent",
     "original_repository_id": 668159220,
     "original_repository_sha": "a32e10b1088c6478377fe615cf1a8d095b0b2232",

@@ -116,7 +116,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Vision-Language-Action Model
 
-* [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) \[arXiv 2024.01] \[[Github](https://github.com/openvla/openvla) ⭐ 6,887 | 🐛 114 | 🌐 Python | 📅 2025-03-23]\[[Project page](https://openvla.github.io/)]\[[HuggingFace🤗](https://huggingface.co/openvla)]<br>
+* [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) \[arXiv 2024.01] \[[Github](https://github.com/openvla/openvla) ⭐ 6,886 | 🐛 114 | 🌐 Python | 📅 2025-03-23]\[[Project page](https://openvla.github.io/)]\[[HuggingFace🤗](https://huggingface.co/openvla)]<br>
   Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT
 
 * [**ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning**](https://arxiv.org/abs/2602.11236) \[**arXiv 2026**] \[[Github](https://github.com/amap-cvlab/ABot-Manipulation) ⭐ 685 | 🐛 8 | 🌐 Python | 📅 2026-07-22]\[[Project page](https://amap-cvlab.github.io/ABot-Manipulation/)]<br>
@@ -173,13 +173,13 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Advanced Agent Applications
 
-* [**Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration**](https://arxiv.org/pdf/2406.01014) \[**arXiv 2024**] \[[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ⭐ 9,119 | 🐛 195 | 🌐 Python | 📅 2026-07-07]<br>
+* [**Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration**](https://arxiv.org/pdf/2406.01014) \[**arXiv 2024**] \[[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ⭐ 9,120 | 🐛 195 | 🌐 Python | 📅 2026-07-07]<br>
   Junyang Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Haitao Jia<sup>1</sup>, Xi Zhang<sup>2</sup>, Ming Yan<sup>2</sup>, Weizhou Shen<sup>2</sup>, Ji Zhang<sup>2</sup>, Fei Huang<sup>2</sup>, Jitao Sang<sup>1</sup><br> <sup>1</sup>Beijing Jiaotong University <sup>2</sup>Alibaba Group
 
-* [**Mobile-Agent: The Powerful Mobile Device Operation Assistant Family**](https://arxiv.org/pdf/2406.01014) \[**ICLR 2024 Workshop LLM Agents**] \[[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ⭐ 9,119 | 🐛 195 | 🌐 Python | 📅 2026-07-07]<br>
+* [**Mobile-Agent: The Powerful Mobile Device Operation Assistant Family**](https://arxiv.org/pdf/2406.01014) \[**ICLR 2024 Workshop LLM Agents**] \[[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ⭐ 9,120 | 🐛 195 | 🌐 Python | 📅 2026-07-07]<br>
   Junyang Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Jiabo Ye<sup>2</sup>, Ming Yan<sup>2</sup>, Weizhou Shen<sup>2</sup>, Ji Zhang<sup>2</sup>, Fei Huang<sup>2</sup>, Jitao Sang<sup>1</sup><br> <sup>1</sup>Beijing Jiaotong University <sup>2</sup>Alibaba Group
 
-* [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/pdf/2312.13771.pdf) \[[**Project page**](https://appagent-official.github.io/)] \[[**Github**](https://github.com/mnotgod96/AppAgent) ⭐ 6,858 | 🐛 99 | 🌐 Python | 📅 2025-03-19] <br>
+* [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/pdf/2312.13771.pdf) \[[**Project page**](https://appagent-official.github.io/)] \[[**Github**](https://github.com/mnotgod96/AppAgent) ⭐ 6,859 | 🐛 99 | 🌐 Python | 📅 2025-03-19] <br>
   Chi Zhang∗ ZhaoYang∗ JiaxuanLiu∗ YuchengHan XinChen Zebiao Huang BinFu GangYu†<br>
   Tencent
 
