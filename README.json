@@ -45,7 +45,7 @@
             "last_commit": "2025-03-23T23:41:01Z",
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6886
+            "stars": 6889
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-22T04:30:18Z",
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 685
+            "stars": 688
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9120
+            "stars": 9124
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9120
+            "stars": 9124
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 942934124,
             "language": "Python",
-            "last_commit": "2026-08-23T22:59:49Z",
+            "last_commit": "2026-08-24T19:39:26Z",
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
             "stars": 493
@@ -345,7 +345,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7157
+            "stars": 7156
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-23T22:59:52Z",
             "owner": "mll-lab-nu",
             "repo": "ViewAgent",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -792,7 +792,7 @@
             "archived": false,
             "id": 904869925,
             "language": "Python",
-            "last_commit": "2026-08-20T01:50:16Z",
+            "last_commit": "2026-08-25T01:38:29Z",
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
             "stars": 354
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:23:52.995Z",
+    "last_updated": "2026-08-25T06:02:09.343Z",
     "original_repository": "zchoi/Awesome-Embodied-Robotics-and-Agent",
     "original_repository_id": 668159220,
     "original_repository_sha": "a32e10b1088c6478377fe615cf1a8d095b0b2232",
