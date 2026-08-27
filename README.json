@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T02:36:39Z",
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-03-23T23:41:01Z",
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6901
+            "stars": 6908
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-22T04:30:18Z",
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 691
+            "stars": 692
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-22T09:53:15Z",
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 225
+            "stars": 226
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-09-26T03:12:53Z",
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5957
+            "stars": 5959
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9135
+            "stars": 9144
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-07-07T09:22:18Z",
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9135
+            "stars": 9144
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2025-03-19T11:01:38Z",
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6860
+            "stars": 6862
           }
         },
         {
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 1098436077,
             "language": "C++",
-            "last_commit": "2026-08-26T18:43:37Z",
+            "last_commit": "2026-08-27T10:27:54Z",
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 253
@@ -270,7 +270,7 @@
             "last_commit": "2024-05-03T07:31:13Z",
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3189
+            "stars": 3190
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2024-04-03T18:51:36Z",
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7160
+            "stars": 7162
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2024-05-31T01:32:29Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "RoboGen",
-            "stars": 1223
+            "stars": 1224
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-02-08T15:40:09Z",
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 842
+            "stars": 844
           }
         },
         {
@@ -765,7 +765,7 @@
             "last_commit": "2026-07-21T10:16:05Z",
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3798
+            "stars": 3799
           }
         },
         {
@@ -792,7 +792,7 @@
             "archived": false,
             "id": 904869925,
             "language": "Python",
-            "last_commit": "2026-08-25T01:38:29Z",
+            "last_commit": "2026-08-27T03:11:41Z",
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
             "stars": 354
@@ -825,7 +825,7 @@
             "last_commit": "2024-02-06T02:34:32Z",
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4122
+            "stars": 4126
           }
         },
         {
@@ -855,7 +855,7 @@
             "last_commit": "2024-03-18T18:10:28Z",
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2251
+            "stars": 2252
           }
         }
       ],
@@ -863,9 +863,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:29:59.932Z",
-    "original_repository": "zchoi/Awesome-Embodied-Robotics-and-Agent",
-    "original_repository_id": 668159220,
+    "last_updated": "2026-08-27T11:25:33.263Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 668159220,
+      "language": null,
+      "last_commit": "2026-08-14T13:55:45Z",
+      "owner": "zchoi",
+      "repo": "Awesome-Embodied-Robotics-and-Agent",
+      "stars": 1860
+    },
     "original_repository_sha": "a32e10b1088c6478377fe615cf1a8d095b0b2232",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
