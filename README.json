@@ -67,7 +67,7 @@
             "open_issues": 113,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6912,
+            "stars": 6914,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -88,7 +88,7 @@
             "open_issues": 8,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 693,
+            "stars": 694,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -172,7 +172,7 @@
             "open_issues": 46,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5959,
+            "stars": 5960,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -312,7 +312,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6867,
+            "stars": 6868,
             "topics": [
               "agent",
               "chatgpt",
@@ -497,7 +497,7 @@
             "open_issues": 6,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 494,
+            "stars": 493,
             "topics": [
               "agent",
               "embodied-ai",
@@ -594,7 +594,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7164,
+            "stars": 7166,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1061,7 +1061,7 @@
             "open_issues": 14,
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 857,
+            "stars": 858,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1260,7 +1260,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
             "stars": 1786,
@@ -1290,7 +1290,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -1411,7 +1411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:08.318Z",
+    "last_updated": "2026-08-29T20:08:53.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
