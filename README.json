@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 749300380,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-25T12:56:24Z",
+            "open_issues": 3,
             "owner": "jun0wanan",
             "repo": "awesome-large-multimodal-agents",
-            "stars": 497
+            "stars": 497,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥This is a curated list of \"A survey on Efficient Vision-Language Action Models\" research. We will continue to maintain and update the repository, so follow us to keep up with the latest developments!!!",
+            "homepage": null,
             "id": 1055452952,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-24T02:36:39Z",
+            "open_issues": 0,
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "efficient",
+              "embodied-ai",
+              "vision-language-action",
+              "vision-language-action-model",
+              "vla"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenVLA: An open-source vision-language-action model for robotic manipulation.",
+            "homepage": null,
             "id": 814864073,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-23T23:41:01Z",
+            "open_issues": 113,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6911
+            "stars": 6912,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -58,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1154460916,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T04:30:18Z",
+            "open_issues": 8,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 693
+            "stars": 693,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -74,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embodied Chain of Thought: A robotic policy that reason to solve the task.",
+            "homepage": null,
             "id": 826686193,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-05T21:48:31Z",
+            "open_issues": 16,
             "owner": "MichalZawalski",
             "repo": "embodied-CoT",
-            "stars": 414
+            "stars": 414,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -90,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embodied-Reasoner  Embodied‑Navigator",
+            "homepage": "2503.21696 / 2608.17512 ",
             "id": 952589852,
             "language": "Python",
+            "license": "MulanPSL-2.0",
             "last_commit": "2026-08-22T09:53:15Z",
+            "open_issues": 8,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 228
+            "stars": 228,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -106,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI [ICLR 2026]",
+            "homepage": "https://worv-ai.github.io/d2e/",
             "id": 1075212517,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-16T07:07:34Z",
+            "open_issues": 1,
             "owner": "worv-ai",
             "repo": "D2E",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -122,12 +163,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents",
+            "homepage": null,
             "id": 667645956,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-26T03:12:53Z",
+            "open_issues": 46,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5959
+            "stars": 5959,
+            "topics": [
+              "autonomous-agents",
+              "language-model",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -138,12 +188,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and implementations for the ACL 2025 paper \"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments\" by Zhiheng Xi et al.",
+            "homepage": "https://arxiv.org/abs/2406.04151",
             "id": 806444030,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-30T14:12:49Z",
+            "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 837
+            "stars": 837,
+            "topics": [
+              "agent",
+              "large-language-models",
+              "llm",
+              "llm-based-agent"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -154,12 +214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2025] A Neural-Symbolic Self-Training Framework",
+            "homepage": null,
             "id": 792995075,
             "language": "C",
+            "license": null,
             "last_commit": "2025-06-01T15:55:05Z",
+            "open_issues": 0,
             "owner": "xufangzhi",
             "repo": "ENVISIONS",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -170,12 +235,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Mobile-Agent: The Powerful GUI Agent Family",
+            "homepage": null,
             "id": 748674684,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-07T09:22:18Z",
+            "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9148
+            "stars": 9148,
+            "topics": [
+              "agent",
+              "android",
+              "app",
+              "automation",
+              "copilot",
+              "gui",
+              "mllm",
+              "mobile",
+              "mobile-agents",
+              "multimodal",
+              "multimodal-agent",
+              "multimodal-large-language-models"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -186,12 +269,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Mobile-Agent: The Powerful GUI Agent Family",
+            "homepage": null,
             "id": 748674684,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-07T09:22:18Z",
+            "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9148
+            "stars": 9148,
+            "topics": [
+              "agent",
+              "android",
+              "app",
+              "automation",
+              "copilot",
+              "gui",
+              "mllm",
+              "mobile",
+              "mobile-agents",
+              "multimodal",
+              "multimodal-agent",
+              "multimodal-large-language-models"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -202,12 +303,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+            "homepage": "https://appagent-official.github.io/",
             "id": 733899994,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-19T11:01:38Z",
+            "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6867
+            "stars": 6867,
+            "topics": [
+              "agent",
+              "chatgpt",
+              "generative-ai",
+              "gpt4",
+              "gpt4v",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -218,12 +331,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seamlessly integrate state-of-the-art transformer models into robotics stacks",
+            "homepage": "https://mbodi.ai",
             "id": 804600851,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-16T18:07:50Z",
+            "open_issues": 17,
             "owner": "mbodiai",
             "repo": "embodied-agents",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "agents",
+              "artificial-intelligence",
+              "diffusion",
+              "embodied",
+              "embodied-agent",
+              "embodied-agents",
+              "generative-ai",
+              "large-language-models",
+              "llm",
+              "mbodi",
+              "mbodiai",
+              "multimodal",
+              "robotics",
+              "transformer",
+              "vision-language-model",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -234,12 +369,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ros2_medkit - diagnostics gateway for ROS 2 robots. Faults, live data, operations, scripts, locking, triggers, and OTA updates via REST API. No SSH, no custom tooling.",
+            "homepage": "https://selfpatch.github.io/ros2_medkit/",
             "id": 1098436077,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:29:37Z",
+            "open_issues": 69,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "diagnostics",
+              "edge",
+              "fleet",
+              "gateway",
+              "introspection",
+              "observability",
+              "rbac",
+              "remote-debugging",
+              "rest-api",
+              "robotics",
+              "ros2",
+              "ros2-diagnostics",
+              "ros2-medkit",
+              "sovd"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -250,12 +405,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build LLM-powered robots in your garage with MachinaScript For Robots!",
+            "homepage": null,
             "id": 751063511,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-28T03:54:44Z",
+            "open_issues": 2,
             "owner": "babycommando",
             "repo": "machinascript-for-robots",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "ai",
+              "arduino",
+              "artificial-intelligence",
+              "gpt",
+              "gpt-3",
+              "gpt-4",
+              "llama",
+              "llama2",
+              "llm",
+              "llms",
+              "mistral",
+              "mistral-7b",
+              "mixtral",
+              "mixtral-8x7b",
+              "raspberry-pi",
+              "raspberry-pi-4",
+              "robot",
+              "robotics",
+              "robots"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -266,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] DiffAgent: Fast and Accurate Text-to-Image API Selection with Large Language Model",
+            "homepage": null,
             "id": 773324685,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-16T03:57:45Z",
+            "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "DiffAgent",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -282,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Repository for \"Eureka: Human-Level Reward Design via Coding Large Language Models\" (ICLR 2024)",
+            "homepage": "https://eureka-research.github.io/",
             "id": 696418559,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-05-03T07:31:13Z",
+            "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3190
+            "stars": 3190,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -298,12 +488,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "World model reinforcement learning for multi-turn VLM agents. RL for vision framework (NeurIPS 2025).",
+            "homepage": "https://vagen-ai.github.io/",
             "id": 942934124,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:27:39Z",
+            "open_issues": 6,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "agent",
+              "embodied-ai",
+              "multi-turn-reinforcement-learning",
+              "neurips-2025",
+              "reinforcement-learning",
+              "rl-for-vision",
+              "vision-language-model",
+              "vision-language-models",
+              "vlm-agent",
+              "vlm-agents",
+              "world-model",
+              "world-models"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -314,12 +522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of the paper \"Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning\".",
+            "homepage": null,
             "id": 645983077,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-11T20:53:58Z",
+            "open_issues": 0,
             "owner": "GuanSuns",
             "repo": "LLMs-World-Models-for-Planning",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -330,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for the paper: Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld",
+            "homepage": null,
             "id": 724457375,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-06T17:05:26Z",
+            "open_issues": 0,
             "owner": "stevenyangyj",
             "repo": "Emma-Alfworld",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -346,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 681752008,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-29T07:07:07Z",
+            "open_issues": 2,
             "owner": "ademiadeniji",
             "repo": "lamp",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -362,12 +585,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-Ended Embodied Agent with Large Language Models",
+            "homepage": "https://voyager.minedojo.org/",
             "id": 645471238,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-03T18:51:36Z",
+            "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7164
+            "stars": 7164,
+            "topics": [
+              "embodied-learning",
+              "large-language-models",
+              "minecraft",
+              "open-ended-learning"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -378,12 +611,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for  3D-LLM: Injecting the 3D World into Large Language Models",
+            "homepage": null,
             "id": 670231330,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-06T19:14:00Z",
+            "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1212
+            "stars": 1212,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -394,12 +632,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code for \"Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents\"",
+            "homepage": "https://huangwl18.github.io/language-planner/",
             "id": 444122251,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-05-16T00:24:12Z",
+            "open_issues": 6,
             "owner": "huangwl18",
             "repo": "language-planner",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "artificial-intelligence",
+              "codex",
+              "deep-learning",
+              "embodied-ai",
+              "foundation-models",
+              "gpt-3",
+              "in-context-learning",
+              "knowledge-extraction",
+              "language-model",
+              "planning",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -410,12 +665,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] Official implementation of \"RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics\"",
+            "homepage": "https://zhoues.github.io/RoboRefer/",
             "id": 995955094,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-16T08:22:40Z",
+            "open_issues": 16,
             "owner": "Zhoues",
             "repo": "RoboRefer",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "robotics",
+              "spatial-reasoning",
+              "spatial-referring",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -426,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV'23] LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models ",
+            "homepage": "https://osu-nlp-group.github.io/LLM-Planner/",
             "id": 665773800,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-03-26T07:25:16Z",
+            "open_issues": 2,
             "owner": "OSU-NLP-Group",
             "repo": "LLM-Planner",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -442,12 +712,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[arXiv 2023] Embodied Task Planning with Large Language Models",
+            "homepage": null,
             "id": 661732596,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-22T12:36:24Z",
+            "open_issues": 8,
             "owner": "Gary3410",
             "repo": "TaPA",
-            "stars": 196
+            "stars": 196,
+            "topics": [
+              "ai2thor",
+              "embodied-agent",
+              "llama",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -458,12 +738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 944753286,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-17T00:50:17Z",
+            "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 150
+            "stars": 150,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -474,12 +759,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 643407037,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-10T17:32:15Z",
+            "open_issues": 6,
             "owner": "szxiangjn",
             "repo": "world-model-for-language-model",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -490,12 +780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Code Repo for Agent-Pro:  Learning to Evolve via Policy-Level Reflection and Optimization",
+            "homepage": "https://zju-omniai.github.io/Agent-Pro/",
             "id": 764136145,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-02T13:56:23Z",
+            "open_issues": 3,
             "owner": "ZJU-OmniAI",
             "repo": "Agent-Pro",
-            "stars": 130
+            "stars": 130,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -506,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of ICLR 2022 paper FILM: Following Instructions in Language with Modular Methods",
+            "homepage": null,
             "id": 461897783,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-09T17:22:21Z",
+            "open_issues": 24,
             "owner": "soyeonm",
             "repo": "FILM",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -522,12 +822,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning. CVPR 2022 (Oral).",
+            "homepage": "https://vision.cs.utexas.edu/projects/poni/",
             "id": 504364821,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-29T20:27:28Z",
+            "open_issues": 13,
             "owner": "srama2512",
             "repo": "PONI",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "cvpr2022",
+              "objectnav",
+              "pytorch-implementation",
+              "scene-understanding",
+              "visual-navigation"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -538,12 +849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 406509520,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-06-24T20:00:41Z",
+            "open_issues": 4,
             "owner": "valtsblukis",
             "repo": "hlsm",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -554,12 +870,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View planning with multi-turn VLM agents: ViewSuite 6-DoF benchmark on real ScanNet scenes + iterative RL-SFT training",
+            "homepage": "https://viewagent.github.io/",
             "id": 1232701426,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-23T22:59:52Z",
+            "open_issues": 0,
             "owner": "mll-lab-nu",
             "repo": "ViewAgent",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "active-perception",
+              "benchmark",
+              "embodied-ai",
+              "reinforcement-learning",
+              "spatial-reasoning",
+              "view-planning",
+              "vlm-agents"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -570,12 +899,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 607577360,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-28T06:07:47Z",
+            "open_issues": 0,
             "owner": "KuoHaoZeng",
             "repo": "AAP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -586,12 +920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2024] Source codes for the paper \"Building Cooperative Embodied Agents Modularly with Large Language Models\"",
+            "homepage": "https://umass-embodied-agi.github.io/CoELA/",
             "id": 662678209,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-03-30T15:18:28Z",
+            "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 307
+            "stars": 307,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -602,12 +941,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model",
+            "homepage": null,
             "id": 642260087,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-23T07:39:41Z",
+            "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "Instruct2Act",
-            "stars": 374
+            "stars": 374,
+            "topics": [
+              "chatgpt",
+              "clip",
+              "llm",
+              "robotics",
+              "segment-anything"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -618,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Train embodied agents that can answer questions in environments",
+            "homepage": null,
             "id": 137247305,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-25T15:23:56Z",
+            "open_issues": 20,
             "owner": "facebookresearch",
             "repo": "EmbodiedQA",
-            "stars": 315
+            "stars": 315,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -634,12 +989,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Train embodied agents that can answer questions in environments",
+            "homepage": null,
             "id": 137247305,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-25T15:23:56Z",
+            "open_issues": 20,
             "owner": "facebookresearch",
             "repo": "EmbodiedQA",
-            "stars": 315
+            "stars": 315,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -650,12 +1010,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for \"Learning Affordance Landscapes for Interaction Exploration in 3D Environments\" (NeurIPS 20)",
+            "homepage": null,
             "id": 285085844,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-06T22:16:40Z",
+            "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "interaction-exploration",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -666,12 +1031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generative and self-guided robotic agent that endlessly propose and master new skills.",
+            "homepage": null,
             "id": 712599607,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-31T01:32:29Z",
+            "open_issues": 6,
             "owner": "Genesis-Embodied-AI",
             "repo": "RoboGen",
-            "stars": 1227
+            "stars": 1227,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -682,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Algorithm Implementation of ICML'23 Paper \"VIMA: General Robot Manipulation with Multimodal Prompts\"",
+            "homepage": null,
             "id": 547079255,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-18T18:57:22Z",
+            "open_issues": 14,
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 857
+            "stars": 857,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -698,12 +1073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+            "homepage": null,
             "id": 303795676,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-08T15:40:09Z",
+            "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 846
+            "stars": 847,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -714,12 +1094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ALFRED - A Benchmark for Interpreting Grounded Instructions for Everyday Tasks",
+            "homepage": null,
             "id": 227495032,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-05T10:08:24Z",
+            "open_issues": 23,
             "owner": "askforalfred",
             "repo": "alfred",
-            "stars": 529
+            "stars": 529,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -730,12 +1115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2023] SQA3D for embodied scene understanding and reasoning",
+            "homepage": null,
             "id": 558831479,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-13T06:14:57Z",
+            "open_issues": 11,
             "owner": "SilongYong",
             "repo": "SQA3D",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -746,12 +1136,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SmartPlay is a benchmark for Large Language Models (LLMs). Uses a variety of games to test various important LLM capabilities as agents. SmartPlay is designed to be easy to use, and to support future development of LLMs.",
+            "homepage": null,
             "id": 699399792,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2024-04-11T03:40:29Z",
+            "open_issues": 7,
             "owner": "microsoft",
             "repo": "SmartPlay",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -762,12 +1157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository containing code for the paper \"IQA: Visual Question Answering in Interactive Environments\"",
+            "homepage": null,
             "id": 136536545,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-11T16:06:32Z",
+            "open_issues": 5,
             "owner": "danielgordon10",
             "repo": "thor-iqa-cvpr-2018",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -778,12 +1178,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICRA 2026] Official codebase for NavSpace: How Navigation Agents Follow Spatial Intelligence Instructions",
+            "homepage": null,
             "id": 1066090818,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-13T18:57:30Z",
+            "open_issues": 1,
             "owner": "TidalHarley",
             "repo": "NavSpace",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "benchmark",
+              "embodied-ai",
+              "embodied-navigation",
+              "spatial-intelligence",
+              "vln-ce"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -794,12 +1205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 516660780,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-22T08:54:14Z",
+            "open_issues": 1,
             "owner": "maybelu9",
             "repo": "env-qa",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -810,12 +1226,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible, high-performance 3D simulator for Embodied AI research.",
+            "homepage": "https://aihabitat.org/",
             "id": 169164539,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-21T10:16:05Z",
+            "open_issues": 269,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3802
+            "stars": 3803,
+            "topics": [
+              "ai",
+              "computer-vision",
+              "cplusplus",
+              "robotics",
+              "sim2real",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -826,12 +1254,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source platform for Visual AI.",
+            "homepage": "http://ai2thor.allenai.org",
             "id": 107305157,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
+            "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1786
+            "stars": 1786,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "interaction",
+              "physics-engine",
+              "visual-ai"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -842,12 +1281,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025 Highlights] Large-scale photo-realistic virtual worlds for embodied AI",
+            "homepage": "http://unrealzoo.site/",
             "id": 904869925,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:41:06Z",
+            "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "data-generation",
+              "embodied-ai",
+              "multi-agent-reinforcement-learning",
+              "simulator",
+              "social-intelligence",
+              "spatial-intelligence",
+              "unreal-engine",
+              "unrealcv",
+              "virtual-worlds"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -858,12 +1312,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Platform for Embodied Agents",
+            "homepage": "https://docs.legent.ai",
             "id": 771364938,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-12T21:11:35Z",
+            "open_issues": 9,
             "owner": "thunlp",
             "repo": "LEGENT",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "embodied-ai",
+              "language-grounding",
+              "large-multimodal-models",
+              "physics-engine",
+              "robot-simulator"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -874,12 +1339,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models",
+            "homepage": null,
             "id": 565563619,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-06T02:34:32Z",
+            "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4131
+            "stars": 4131,
+            "topics": [
+              "decision-making",
+              "large-language-models",
+              "llm",
+              "prompting",
+              "reasoning"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -890,12 +1366,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project Page for \"LISA: Reasoning Segmentation via Large Language Model\"",
+            "homepage": null,
             "id": 673431525,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-16T13:33:08Z",
+            "open_issues": 115,
             "owner": "JIA-Lab-research",
             "repo": "LISA",
-            "stars": 2674
+            "stars": 2674,
+            "topics": [
+              "large-language-model",
+              "llm",
+              "multi-modal",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         },
@@ -906,12 +1392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+            "homepage": null,
             "id": 504884280,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2024-03-18T18:10:28Z",
+            "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2252
+            "stars": 2252,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
         }
@@ -920,15 +1411,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:17:38.741Z",
+    "last_updated": "2026-08-29T04:27:08.318Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
+      "homepage": null,
       "id": 668159220,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-08-14T13:55:45Z",
+      "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1860
+      "stars": 1860,
+      "topics": [
+        "agent",
+        "awesome",
+        "embodied-agent",
+        "embodied-ai",
+        "large-language-model",
+        "manipulator-robotics",
+        "navigation",
+        "planning-algorithms",
+        "scene-understanding"
+      ]
     },
     "original_repository_sha": "a32e10b1088c6478377fe615cf1a8d095b0b2232",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
