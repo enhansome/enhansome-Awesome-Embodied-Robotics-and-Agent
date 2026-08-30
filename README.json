@@ -67,7 +67,7 @@
             "open_issues": 113,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6914,
+            "stars": 6915,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -109,7 +109,7 @@
             "open_issues": 16,
             "owner": "MichalZawalski",
             "repo": "embodied-CoT",
-            "stars": 414,
+            "stars": 415,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -130,7 +130,7 @@
             "open_issues": 8,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 228,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -197,7 +197,7 @@
             "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "agent",
               "large-language-models",
@@ -244,7 +244,7 @@
             "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9148,
+            "stars": 9149,
             "topics": [
               "agent",
               "android",
@@ -278,7 +278,7 @@
             "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9148,
+            "stars": 9149,
             "topics": [
               "agent",
               "android",
@@ -312,7 +312,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6868,
+            "stars": 6869,
             "topics": [
               "agent",
               "chatgpt",
@@ -493,8 +493,8 @@
             "id": 942934124,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T21:27:39Z",
-            "open_issues": 6,
+            "last_commit": "2026-08-30T08:12:14Z",
+            "open_issues": 4,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
             "stars": 493,
@@ -594,7 +594,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7166,
+            "stars": 7169,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -875,7 +875,7 @@
             "id": 1232701426,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-23T22:59:52Z",
+            "last_commit": "2026-08-29T22:36:17Z",
             "open_issues": 0,
             "owner": "mll-lab-nu",
             "repo": "ViewAgent",
@@ -1260,10 +1260,10 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
-            "open_issues": 280,
+            "open_issues": 279,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1786,
+            "stars": 1787,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1348,7 +1348,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4131,
+            "stars": 4134,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1411,7 +1411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:08:53.169Z",
+    "last_updated": "2026-08-30T20:16:12.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1423,7 +1423,7 @@
       "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1860,
+      "stars": 1861,
       "topics": [
         "agent",
         "awesome",
