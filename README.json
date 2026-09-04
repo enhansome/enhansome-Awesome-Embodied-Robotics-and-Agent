@@ -64,10 +64,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-03-23T23:41:01Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6942,
+            "stars": 6954,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -197,7 +197,7 @@
             "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 840,
+            "stars": 842,
             "topics": [
               "agent",
               "large-language-models",
@@ -244,7 +244,7 @@
             "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9161,
+            "stars": 9163,
             "topics": [
               "agent",
               "android",
@@ -278,7 +278,7 @@
             "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9161,
+            "stars": 9163,
             "topics": [
               "agent",
               "android",
@@ -312,7 +312,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6875,
+            "stars": 6874,
             "topics": [
               "agent",
               "chatgpt",
@@ -374,8 +374,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T12:55:14Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-04T19:06:58Z",
+            "open_issues": 71,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 253,
@@ -494,7 +494,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-30T08:12:14Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
             "stars": 495,
@@ -594,7 +594,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7174,
+            "stars": 7176,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -620,7 +620,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1213,
+            "stars": 1214,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1103,7 +1103,7 @@
             "open_issues": 23,
             "owner": "askforalfred",
             "repo": "alfred",
-            "stars": 530,
+            "stars": 531,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1260,7 +1260,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2025-11-04T06:09:29Z",
-            "open_issues": 279,
+            "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
             "stars": 1790,
@@ -1348,7 +1348,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4149,
+            "stars": 4152,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1375,7 +1375,7 @@
             "open_issues": 115,
             "owner": "JIA-Lab-research",
             "repo": "LISA",
-            "stars": 2673,
+            "stars": 2674,
             "topics": [
               "large-language-model",
               "llm",
@@ -1401,7 +1401,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2253,
+            "stars": 2254,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1411,7 +1411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:16:00.483Z",
+    "last_updated": "2026-09-04T20:01:09.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1423,7 +1423,7 @@
       "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1865,
+      "stars": 1867,
       "topics": [
         "agent",
         "awesome",
