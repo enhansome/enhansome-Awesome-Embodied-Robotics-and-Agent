@@ -16,7 +16,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-09-25T12:56:24Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "jun0wanan",
             "repo": "awesome-large-multimodal-agents",
             "stars": 497,
@@ -67,7 +67,7 @@
             "open_issues": 114,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6992,
+            "stars": 6997,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -172,7 +172,7 @@
             "open_issues": 50,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5962,
+            "stars": 5963,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -244,7 +244,7 @@
             "open_issues": 194,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9193,
+            "stars": 9196,
             "topics": [
               "agent",
               "android",
@@ -278,7 +278,7 @@
             "open_issues": 194,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9193,
+            "stars": 9196,
             "topics": [
               "agent",
               "android",
@@ -312,7 +312,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6879,
+            "stars": 6878,
             "topics": [
               "agent",
               "chatgpt",
@@ -374,8 +374,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T18:20:32Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-12T19:47:44Z",
+            "open_issues": 91,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 255,
@@ -414,7 +414,7 @@
             "open_issues": 2,
             "owner": "babycommando",
             "repo": "machinascript-for-robots",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "ai",
               "arduino",
@@ -594,7 +594,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7193,
+            "stars": 7194,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1348,7 +1348,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4163,
+            "stars": 4164,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1401,7 +1401,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2255,
+            "stars": 2257,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1411,7 +1411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:11:55.983Z",
+    "last_updated": "2026-09-12T19:50:49.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1423,7 +1423,7 @@
       "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1878,
+      "stars": 1879,
       "topics": [
         "agent",
         "awesome",
