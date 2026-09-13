@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "efficient",
               "embodied-ai",
@@ -64,10 +64,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-03-23T23:41:01Z",
-            "open_issues": 114,
+            "open_issues": 115,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 6997,
+            "stars": 7001,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -88,7 +88,7 @@
             "open_issues": 8,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 708,
+            "stars": 709,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -172,7 +172,7 @@
             "open_issues": 50,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5963,
+            "stars": 5962,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -197,7 +197,7 @@
             "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 843,
+            "stars": 844,
             "topics": [
               "agent",
               "large-language-models",
@@ -312,7 +312,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6878,
+            "stars": 6879,
             "topics": [
               "agent",
               "chatgpt",
@@ -374,11 +374,11 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T19:47:44Z",
-            "open_issues": 91,
+            "last_commit": "2026-09-13T18:34:56Z",
+            "open_issues": 92,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
-            "stars": 255,
+            "stars": 256,
             "topics": [
               "diagnostics",
               "edge",
@@ -476,7 +476,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3197,
+            "stars": 3199,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -497,7 +497,7 @@
             "open_issues": 4,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "agent",
               "embodied-ai",
@@ -747,7 +747,7 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 150,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1047,6 +1047,27 @@
         },
         {
           "node_type": "item",
+          "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+          "description": "[ICLR 2021] [Project page] [Github] Mohit Shridhar† Xingdi Yuan♡ Marc-Alexandre Côté♡ Yonatan Bisk‡ Adam Trischler♡ Matthew Hausknecht♣ ‡University of Washington ♡Microsoft Research, Montréal ‡Carnegie Mellon University ♣Microsoft Research",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+            "homepage": null,
+            "id": 303795676,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-02-08T15:40:09Z",
+            "open_issues": 14,
+            "owner": "alfworld",
+            "repo": "alfworld",
+            "stars": 858,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:17:38.741Z"
+        },
+        {
+          "node_type": "item",
           "title": "VIMA: Robot Manipulation with Multimodal Prompts",
           "description": "[ICML 2023] [Project page] [Github] [VIMA-Bench] Yunfan Jiang1 Agrim Gupta1† Zichen Zhang2† Guanzhi Wang3,4† Yongqiang Dou5 Yanjun Chen1 Li Fei-Fei1 Anima Anandkumar3,4 Yuke Zhu3,6‡ Linxi Fan3‡",
           "children": [],
@@ -1062,27 +1083,6 @@
             "owner": "vimalabs",
             "repo": "VIMA",
             "stars": 858,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:17:38.741Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
-          "description": "[ICLR 2021] [Project page] [Github] Mohit Shridhar† Xingdi Yuan♡ Marc-Alexandre Côté♡ Yonatan Bisk‡ Adam Trischler♡ Matthew Hausknecht♣ ‡University of Washington ♡Microsoft Research, Montréal ‡Carnegie Mellon University ♣Microsoft Research",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
-            "homepage": null,
-            "id": 303795676,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-02-08T15:40:09Z",
-            "open_issues": 14,
-            "owner": "alfworld",
-            "repo": "alfworld",
-            "stars": 857,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1235,7 +1235,7 @@
             "open_issues": 268,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3819,
+            "stars": 3820,
             "topics": [
               "ai",
               "computer-vision",
@@ -1263,7 +1263,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1792,
+            "stars": 1791,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1286,11 +1286,11 @@
             "id": 904869925,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T03:16:51Z",
+            "last_commit": "2026-09-13T06:15:19Z",
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -1348,7 +1348,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4164,
+            "stars": 4166,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1411,7 +1411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:50:49.214Z",
+    "last_updated": "2026-09-13T19:59:06.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
