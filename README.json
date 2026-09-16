@@ -64,10 +64,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-03-23T23:41:01Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7015,
+            "stars": 7022,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -88,7 +88,7 @@
             "open_issues": 8,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 710,
+            "stars": 711,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -130,7 +130,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 239,
+            "stars": 240,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -197,7 +197,7 @@
             "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "agent",
               "large-language-models",
@@ -244,7 +244,7 @@
             "open_issues": 194,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9206,
+            "stars": 9214,
             "topics": [
               "agent",
               "android",
@@ -278,7 +278,7 @@
             "open_issues": 194,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9206,
+            "stars": 9214,
             "topics": [
               "agent",
               "android",
@@ -312,7 +312,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6882,
+            "stars": 6884,
             "topics": [
               "agent",
               "chatgpt",
@@ -374,8 +374,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T13:00:38Z",
-            "open_issues": 93,
+            "last_commit": "2026-09-16T10:14:30Z",
+            "open_issues": 94,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 258,
@@ -476,7 +476,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3200,
+            "stars": 3201,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -497,7 +497,7 @@
             "open_issues": 4,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "agent",
               "embodied-ai",
@@ -594,7 +594,7 @@
             "open_issues": 8,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7200,
+            "stars": 7203,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -733,6 +733,27 @@
         },
         {
           "node_type": "item",
+          "title": "RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks",
+          "description": "[arXiv 2026.03] [Project Page] [Github] Ruiying Li*, Yunlang Zhou*, YuYao Zhu, Kylin Chen, Jingyuan Wang, Sukai Wang, Kongtao Hu, Minhui Yu, Bowen Jiang, Zhan Su, Jiayao Ma, Xin He, Yongjian Shen, Yang Yang, Guanghui Ren, Maoqing Yao, Wenhao Wang†, Yao Mu†",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1179490556,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-10T15:04:16Z",
+            "open_issues": 3,
+            "owner": "RoboClaw-Robotics",
+            "repo": "RoboClaw",
+            "stars": 157,
+            "topics": []
+          },
+          "first_seen": "2026-09-16T20:36:53.494Z"
+        },
+        {
+          "node_type": "item",
           "title": "RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics",
           "description": "[CVPR 2025 (Oral)] [Project Page] [Code] Chan Hee Song1, Valts Blukis2, Jonathan Tremblay2, Stephen Tyree2, Yu Su1, Stan Birchfield2 1The Ohio State University, 2NVIDIA",
           "children": [],
@@ -747,7 +768,28 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 151,
+            "stars": 152,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:17:38.741Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization",
+          "description": "[ACL 2024][Github] Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Code Repo for Agent-Pro:  Learning to Evolve via Policy-Level Reflection and Optimization",
+            "homepage": "https://zju-omniai.github.io/Agent-Pro/",
+            "id": 764136145,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2024-09-02T13:56:23Z",
+            "open_issues": 3,
+            "owner": "ZJU-OmniAI",
+            "repo": "Agent-Pro",
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -769,27 +811,6 @@
             "owner": "szxiangjn",
             "repo": "world-model-for-language-model",
             "stars": 134,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:17:38.741Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization",
-          "description": "[ACL 2024][Github] Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Code Repo for Agent-Pro:  Learning to Evolve via Policy-Level Reflection and Optimization",
-            "homepage": "https://zju-omniai.github.io/Agent-Pro/",
-            "id": 764136145,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2024-09-02T13:56:23Z",
-            "open_issues": 3,
-            "owner": "ZJU-OmniAI",
-            "repo": "Agent-Pro",
-            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -879,7 +900,7 @@
             "open_issues": 0,
             "owner": "mll-lab-nu",
             "repo": "ViewAgent",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "active-perception",
               "benchmark",
@@ -929,7 +950,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 310,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -950,7 +971,7 @@
             "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "Instruct2Act",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "chatgpt",
               "clip",
@@ -1061,7 +1082,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 860,
+            "stars": 861,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1103,7 +1124,7 @@
             "open_issues": 23,
             "owner": "askforalfred",
             "repo": "alfred",
-            "stars": 531,
+            "stars": 532,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1187,7 +1208,7 @@
             "open_issues": 1,
             "owner": "TidalHarley",
             "repo": "NavSpace",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -1263,7 +1284,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1792,
+            "stars": 1794,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1348,7 +1369,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4170,
+            "stars": 4172,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1411,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T20:37:34.607Z",
+    "last_updated": "2026-09-16T20:36:53.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1419,11 +1440,11 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-10T07:10:01Z",
+      "last_commit": "2026-09-16T15:28:45Z",
       "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1883,
+      "stars": 1884,
       "topics": [
         "agent",
         "awesome",
@@ -1436,7 +1457,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "d7677cd9b342d1f7beb0e0f75061118713ac983c",
+    "original_repository_sha": "4e810ecfcde565ac41f89e34ecd4961a10c2ce17",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
