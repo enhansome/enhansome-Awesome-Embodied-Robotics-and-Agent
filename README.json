@@ -67,7 +67,7 @@
             "open_issues": 117,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7073,
+            "stars": 7079,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -88,7 +88,7 @@
             "open_issues": 9,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 712,
+            "stars": 714,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -126,7 +126,7 @@
             "id": 952589852,
             "language": "Python",
             "license": "MulanPSL-2.0",
-            "last_commit": "2026-09-24T07:01:31Z",
+            "last_commit": "2026-09-25T04:32:52Z",
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
@@ -172,7 +172,7 @@
             "open_issues": 50,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5966,
+            "stars": 5965,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -244,7 +244,7 @@
             "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9248,
+            "stars": 9249,
             "topics": [
               "agent",
               "android",
@@ -278,7 +278,7 @@
             "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9248,
+            "stars": 9249,
             "topics": [
               "agent",
               "android",
@@ -374,11 +374,11 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T18:51:53Z",
-            "open_issues": 97,
+            "last_commit": "2026-09-25T11:45:54Z",
+            "open_issues": 102,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
-            "stars": 264,
+            "stars": 267,
             "topics": [
               "diagnostics",
               "edge",
@@ -497,7 +497,7 @@
             "open_issues": 4,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "agent",
               "embodied-ai",
@@ -789,7 +789,7 @@
             "open_issues": 3,
             "owner": "ZJU-OmniAI",
             "repo": "Agent-Pro",
-            "stars": 135,
+            "stars": 134,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 872,
+            "stars": 874,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1422,7 +1422,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2260,
+            "stars": 2261,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1432,7 +1432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:55:12.486Z",
+    "last_updated": "2026-09-25T20:51:18.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
