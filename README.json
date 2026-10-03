@@ -67,7 +67,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7105,
+            "stars": 7108,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -244,7 +244,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9272,
+            "stars": 9273,
             "topics": [
               "agent",
               "android",
@@ -278,7 +278,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9272,
+            "stars": 9273,
             "topics": [
               "agent",
               "android",
@@ -312,7 +312,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6898,
+            "stars": 6900,
             "topics": [
               "agent",
               "chatgpt",
@@ -375,10 +375,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T17:27:22Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
-            "stars": 271,
+            "stars": 272,
             "topics": [
               "diagnostics",
               "edge",
@@ -538,6 +538,33 @@
         },
         {
           "node_type": "item",
+          "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+          "description": "[arXiv 2026.09] [Project Page] [Github] [HuggingFace🤗] Kaixiang Yao1*, Xu Wang1*, Miao Pan1, Hu Xiyue1, Weishi Wang2, Daniel Dahlmeier2, Jintao Chen1, Yongliang Shen1, Xuhong Zhang1, Wenqi Zhang1 *Equal Contribution 1Zhejiang University 2SAP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Learning Spatial Reasoning through Interaction with the Observable Physical World",
+            "homepage": "https://zju-omniai.github.io/Spatial-Interactor/",
+            "id": 1368647527,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-23T17:22:16Z",
+            "open_issues": 0,
+            "owner": "ZJU-OmniAI",
+            "repo": "Spatial-Interactor",
+            "stars": 83,
+            "topics": [
+              "embodied-ai",
+              "on-policy-distillation",
+              "spatial-reasoning",
+              "video-understanding",
+              "vision-language-model"
+            ]
+          },
+          "first_seen": "2026-10-03T20:19:40.626Z"
+        },
+        {
+          "node_type": "item",
           "title": "Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld",
           "description": "[CVPR 2024] [Github] Yijun Yang154, Tianyi Zhou2, Kanxue Li3, Dapeng Tao3, Lvsong Li4, Li Shen4, Xiaodong He4, Jing Jiang5, Yuhui Shi1 1Southern University of Science and Technology, 2University of Maryland, College Park, 3Yunnan University, 4JD Explore Academy, 5University of Technology Sydney",
           "children": [],
@@ -594,7 +621,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7238,
+            "stars": 7242,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1131,6 +1158,27 @@
         },
         {
           "node_type": "item",
+          "title": "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks",
+          "description": "[arXiv 2026.09] [Github] [Project Page] Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng Li, Jintao Chen, Xuhong Zhang, and Wenqi Zhang Zhejiang University, Central South University, Institute of Software, Chinese Academy of Sciences",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Embodied-Reasoner  Embodied‑Navigator  Embodied‑Memory",
+            "homepage": null,
+            "id": 952589852,
+            "language": "Python",
+            "license": "MulanPSL-2.0",
+            "last_commit": "2026-09-25T04:32:52Z",
+            "open_issues": 9,
+            "owner": "ZJU-OmniAI",
+            "repo": "Embodied-Omni",
+            "stars": 249,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:17:38.741Z"
+        },
+        {
+          "node_type": "item",
           "title": "SQA3D: Situated Question Answering in 3D Scenes",
           "description": "[ICLR 2023] [Project page] [Slides] [Github] Xiaojian Ma2 Silong Yong1,3* Zilong Zheng1 Qing Li1 Yitao Liang1,4 Song-Chun Zhu1,2,3,4 Siyuan Huang1 1Beijing Institute for General Artificial Intelligence (BIGAI) 2UCLA 3Tsinghua University 4Peking University",
           "children": [],
@@ -1221,27 +1269,6 @@
         },
         {
           "node_type": "item",
-          "title": "RescueBench: Can Embodied Agents Save Lives in the Wild?",
-          "description": "[NeurIPS 2026] [Github] Kui Wu1,5, Beiyu Guo4, Hao Chen4, ShuHang Xu2,5, Yuling Li2,5, Yongdan Zeng2,5, Zhoujun Li1, Yizhou Wang3, Fangwei Zhong2,† †Corresponding author 1Beihang University, 2Beijing Normal University, 3Peking University, 4City University of Macau, 5ATEC2025 Challenge Committee",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "RescueBench is a search-and-rescue (SAR) benchmark designed for embodied AI, built on Unreal Engine and UnrealZoo. It offers a standardized framework for evaluating AI models in open-world scenarios, featuring multi-stage assessments and progressive difficulty levels. ",
-            "homepage": null,
-            "id": 1254829141,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-28T13:16:14Z",
-            "open_issues": 0,
-            "owner": "UnrealZoo",
-            "repo": "RescueBench",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-10-02T21:34:11.957Z"
-        },
-        {
-          "node_type": "item",
           "title": "Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments",
           "description": "[ICCV 2021] [Project page] [Github] Difei Gao1,2, Ruiping Wang1,2,3, Ziyi Bai1,2, Xilin Chen1, 1Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, 2University of Chinese Academy of Sciences, 3Beijing Academy of Artificial Intelligence",
           "children": [],
@@ -1277,7 +1304,7 @@
             "open_issues": 268,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3828,
+            "stars": 3829,
             "topics": [
               "ai",
               "computer-vision",
@@ -1332,7 +1359,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -1453,7 +1480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:36.440Z",
+    "last_updated": "2026-10-03T20:19:40.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1461,11 +1488,11 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-02T15:20:46Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-03T08:48:17Z",
+      "open_issues": 3,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1896,
+      "stars": 1897,
       "topics": [
         "agent",
         "awesome",
@@ -1478,7 +1505,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "bd85fd764da60b3f00e148754f9dc8f5fd6a5e5a",
+    "original_repository_sha": "6b942c8fe819f43ccc3b5e3cc989cc593ee2e339",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
