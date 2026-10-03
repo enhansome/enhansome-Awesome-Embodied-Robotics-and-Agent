@@ -172,7 +172,7 @@
             "open_issues": 49,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5964,
+            "stars": 5965,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -244,7 +244,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9268,
+            "stars": 9272,
             "topics": [
               "agent",
               "android",
@@ -278,7 +278,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9268,
+            "stars": 9272,
             "topics": [
               "agent",
               "android",
@@ -594,7 +594,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7237,
+            "stars": 7238,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1453,7 +1453,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:34:11.957Z",
+    "last_updated": "2026-10-03T04:24:36.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
