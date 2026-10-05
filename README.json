@@ -53,6 +53,47 @@
         },
         {
           "node_type": "item",
+          "title": "LLM Agents: A Survey",
+          "description": "[Preprints.org 2026.08] [Github] Jungseob Lee Korea University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated, continuously updated reading list of 500+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Companion to the survey 'LLM Agents: A Survey'.",
+            "homepage": null,
+            "id": 1292978423,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-03T11:29:52Z",
+            "open_issues": 0,
+            "owner": "js-lee-AI",
+            "repo": "awesome-llm-agent-papers",
+            "stars": 87,
+            "topics": [
+              "agent-benchmark",
+              "agent-survey",
+              "agents",
+              "ai-agents",
+              "ai-safety",
+              "autonomous-agents",
+              "awesome",
+              "awesome-list",
+              "large-language-models",
+              "llm",
+              "llm-agents",
+              "llm-safety",
+              "memory",
+              "multi-agent-systems",
+              "paper-list",
+              "planning",
+              "prompt-injection",
+              "survey",
+              "tool-use"
+            ]
+          },
+          "first_seen": "2026-10-05T23:27:50.790Z"
+        },
+        {
+          "node_type": "item",
           "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
           "description": "[arXiv 2024.01] [Github][Project page][HuggingFace🤗] Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT",
           "children": [],
@@ -67,7 +108,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7111,
+            "stars": 7113,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -172,7 +213,7 @@
             "open_issues": 49,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5965,
+            "stars": 5964,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -244,7 +285,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9274,
+            "stars": 9275,
             "topics": [
               "agent",
               "android",
@@ -278,7 +319,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9274,
+            "stars": 9275,
             "topics": [
               "agent",
               "android",
@@ -312,7 +353,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6900,
+            "stars": 6901,
             "topics": [
               "agent",
               "chatgpt",
@@ -374,8 +415,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T17:03:55Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-05T18:55:36Z",
+            "open_issues": 108,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 272,
@@ -621,7 +662,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7245,
+            "stars": 7246,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -647,7 +688,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1216,
+            "stars": 1215,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -727,7 +768,7 @@
             "open_issues": 2,
             "owner": "OSU-NLP-Group",
             "repo": "LLM-Planner",
-            "stars": 227,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1088,7 +1129,7 @@
             "open_issues": 6,
             "owner": "Genesis-Embodied-AI",
             "repo": "RoboGen",
-            "stars": 1227,
+            "stars": 1226,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1444,7 +1485,7 @@
             "open_issues": 115,
             "owner": "JIA-Lab-research",
             "repo": "LISA",
-            "stars": 2685,
+            "stars": 2684,
             "topics": [
               "large-language-model",
               "llm",
@@ -1480,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:37:58.110Z",
+    "last_updated": "2026-10-05T23:27:50.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1488,8 +1529,8 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-03T08:48:17Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-05T04:12:27Z",
+      "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
       "stars": 1898,
@@ -1505,7 +1546,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "6b942c8fe819f43ccc3b5e3cc989cc593ee2e339",
+    "original_repository_sha": "bbff6cdb3605779b84c14ea7e5427cd0af4d294b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
