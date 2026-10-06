@@ -108,7 +108,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7112,
+            "stars": 7114,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -353,7 +353,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6900,
+            "stars": 6899,
             "topics": [
               "agent",
               "chatgpt",
@@ -415,8 +415,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:01:55Z",
-            "open_issues": 109,
+            "last_commit": "2026-10-06T16:26:16Z",
+            "open_issues": 108,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 273,
@@ -662,7 +662,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7247,
+            "stars": 7246,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1039,7 +1039,7 @@
             "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "Instruct2Act",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "chatgpt",
               "clip",
@@ -1150,7 +1150,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 878,
+            "stars": 880,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1345,7 +1345,7 @@
             "open_issues": 268,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3830,
+            "stars": 3831,
             "topics": [
               "ai",
               "computer-vision",
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:57.375Z",
+    "last_updated": "2026-10-06T21:59:50.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
