@@ -108,7 +108,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7114,
+            "stars": 7119,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -238,7 +238,7 @@
             "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 849,
+            "stars": 850,
             "topics": [
               "agent",
               "large-language-models",
@@ -285,7 +285,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9277,
+            "stars": 9278,
             "topics": [
               "agent",
               "android",
@@ -319,7 +319,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9277,
+            "stars": 9278,
             "topics": [
               "agent",
               "android",
@@ -662,7 +662,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7246,
+            "stars": 7250,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1150,7 +1150,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 880,
+            "stars": 881,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1345,7 +1345,7 @@
             "open_issues": 268,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3831,
+            "stars": 3833,
             "topics": [
               "ai",
               "computer-vision",
@@ -1458,7 +1458,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4201,
+            "stars": 4203,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:59:50.895Z",
+    "last_updated": "2026-10-07T22:25:20.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
