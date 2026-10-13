@@ -108,7 +108,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7141,
+            "stars": 7147,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +171,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -285,7 +285,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9285,
+            "stars": 9287,
             "topics": [
               "agent",
               "android",
@@ -319,7 +319,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9285,
+            "stars": 9287,
             "topics": [
               "agent",
               "android",
@@ -538,7 +538,7 @@
             "open_issues": 4,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "agent",
               "embodied-ai",
@@ -658,11 +658,11 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T18:25:42Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-13T20:14:40Z",
+            "open_issues": 39,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
@@ -683,7 +683,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7257,
+            "stars": 7259,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1014,11 +1014,11 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T18:25:42Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-13T20:14:40Z",
+            "open_issues": 39,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
@@ -1035,11 +1035,11 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T18:25:42Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-13T20:14:40Z",
+            "open_issues": 39,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
@@ -1102,7 +1102,7 @@
             "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "Instruct2Act",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "chatgpt",
               "clip",
@@ -1213,7 +1213,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 887,
+            "stars": 890,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1276,7 +1276,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1357,7 +1357,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-13T18:57:30Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "TidalHarley",
             "repo": "NavSpace",
             "stars": 55,
@@ -1436,7 +1436,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1810,
+            "stars": 1809,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1463,7 +1463,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -1521,7 +1521,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4218,
+            "stars": 4220,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1548,7 +1548,7 @@
             "open_issues": 115,
             "owner": "JIA-Lab-research",
             "repo": "LISA",
-            "stars": 2684,
+            "stars": 2685,
             "topics": [
               "large-language-model",
               "llm",
@@ -1574,7 +1574,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2269,
+            "stars": 2270,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:56:19.425Z",
+    "last_updated": "2026-10-13T22:04:29.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1593,10 +1593,10 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-10-11T02:28:40Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1900,
+      "stars": 1902,
       "topics": [
         "agent",
         "awesome",
