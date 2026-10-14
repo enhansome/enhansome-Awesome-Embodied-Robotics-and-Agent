@@ -63,8 +63,8 @@
             "id": 1292978423,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T22:59:59Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-14T09:52:47Z",
+            "open_issues": 1,
             "owner": "js-lee-AI",
             "repo": "awesome-llm-agent-papers",
             "stars": 89,
@@ -94,6 +94,27 @@
         },
         {
           "node_type": "item",
+          "title": "Survey on Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+          "description": "[engrXiv 2026.09] [Github] [Project Page] Show Lab, National University of Singapore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Survey on Multimodal Embodied Agents: Computer-Use → Robot-Use",
+            "homepage": "https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/",
+            "id": 1363933723,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-10-14T05:59:54Z",
+            "open_issues": 0,
+            "owner": "showlab",
+            "repo": "Awesome-Multimodal-Embodied-Agent",
+            "stars": 85,
+            "topics": []
+          },
+          "first_seen": "2026-10-14T21:05:44.680Z"
+        },
+        {
+          "node_type": "item",
           "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
           "description": "[arXiv 2024.01] [Github][Project page][HuggingFace🤗] Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT",
           "children": [],
@@ -108,7 +129,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7147,
+            "stars": 7158,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -129,7 +150,7 @@
             "open_issues": 9,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 714,
+            "stars": 715,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +192,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 257,
+            "stars": 258,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -285,7 +306,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9287,
+            "stars": 9290,
             "topics": [
               "agent",
               "android",
@@ -319,7 +340,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9287,
+            "stars": 9290,
             "topics": [
               "agent",
               "android",
@@ -353,7 +374,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6901,
+            "stars": 6902,
             "topics": [
               "agent",
               "chatgpt",
@@ -415,7 +436,7 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T10:06:12Z",
+            "last_commit": "2026-10-14T15:29:01Z",
             "open_issues": 110,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
@@ -517,7 +538,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3210,
+            "stars": 3212,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -590,10 +611,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T17:16:54Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "embodied-ai",
               "on-policy-distillation",
@@ -662,7 +683,7 @@
             "open_issues": 39,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
@@ -683,7 +704,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7259,
+            "stars": 7260,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -836,7 +857,7 @@
             "open_issues": 3,
             "owner": "RoboClaw-Robotics",
             "repo": "RoboClaw",
-            "stars": 167,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-09-16T20:36:53.494Z"
@@ -1018,7 +1039,7 @@
             "open_issues": 39,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
@@ -1039,10 +1060,38 @@
             "open_issues": 39,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RobotUse: Allocating Computation, Context, and Decisions",
+          "description": "[arXiv 2026.10] [Project Page] [Github] Junhoo Lee, Injun Baek, Seungyeon Kim, Suhyun Jeon, Minkyu Kim, Baekseung Kim, Nojun Kwak",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A robot agent harness for visual action selection, subagent context management, and learning from execution through persistent playbooks.",
+            "homepage": "https://robotuse-team.github.io/",
+            "id": 1399994927,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-14T05:30:09Z",
+            "open_issues": 0,
+            "owner": "robotuse-team",
+            "repo": "RobotUse",
+            "stars": 5,
+            "topics": [
+              "agent-harness",
+              "embodied-ai",
+              "multi-agent",
+              "robot-manipulation",
+              "robotics",
+              "vision-language-models"
+            ]
+          },
+          "first_seen": "2026-10-14T21:05:44.680Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1130,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 312,
+            "stars": 314,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1213,7 +1262,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 890,
+            "stars": 891,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1276,7 +1325,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 257,
+            "stars": 258,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1373,6 +1422,36 @@
         },
         {
           "node_type": "item",
+          "title": "RoboQuest: Generalist Physical Agents that Search, Inspect and Test",
+          "description": "[arXiv 2026.10] [Github] [Project Page] [Dataset] Liu Renhang, Navonil Majumder, Tej Deep Pala, and Soujanya Poria Nanyang Technological University",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RoboQuest is a benchmark for goal-directed embodied exploration, in which a mobile manipulator must gather task-relevant information through physical interaction, act on the evidence, and decide for itself when the task is done.",
+            "homepage": null,
+            "id": 1406103695,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-08T17:38:55Z",
+            "open_issues": 0,
+            "owner": "declare-lab",
+            "repo": "RoboQuest",
+            "stars": 5,
+            "topics": [
+              "agent-skills",
+              "agentic-ai",
+              "agents",
+              "embodied-agent",
+              "embodied-ai",
+              "embodied-intelligence",
+              "physical-ai",
+              "robotics"
+            ]
+          },
+          "first_seen": "2026-10-14T21:05:44.680Z"
+        },
+        {
+          "node_type": "item",
           "title": "Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments",
           "description": "[ICCV 2021] [Project page] [Github] Difei Gao1,2, Ruiping Wang1,2,3, Ziyi Bai1,2, Xilin Chen1, 1Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, 2University of Chinese Academy of Sciences, 3Beijing Academy of Artificial Intelligence",
           "children": [],
@@ -1408,7 +1487,7 @@
             "open_issues": 269,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3834,
+            "stars": 3835,
             "topics": [
               "ai",
               "computer-vision",
@@ -1436,7 +1515,7 @@
             "open_issues": 280,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1809,
+            "stars": 1810,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1521,7 +1600,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4220,
+            "stars": 4222,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1574,7 +1653,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2270,
+            "stars": 2271,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1584,7 +1663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T22:04:29.589Z",
+    "last_updated": "2026-10-14T21:05:44.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1592,8 +1671,8 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-11T02:28:40Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-14T07:34:10Z",
+      "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
       "stars": 1902,
@@ -1609,7 +1688,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "5edd9195fcdeb4cd55fa28ed20e97e3bbc3c88d5",
+    "original_repository_sha": "7259a72469f081e12d64c53572957bc6126ddd04",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
