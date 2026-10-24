@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "efficient",
               "embodied-ai",
@@ -63,11 +63,11 @@
             "id": 1363933723,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-22T06:05:11Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-24T06:23:02Z",
+            "open_issues": 0,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
-            "stars": 151,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-10-14T21:05:44.680Z"
@@ -85,10 +85,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-20T18:22:11Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "js-lee-AI",
             "repo": "awesome-llm-agent-papers",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "agent-benchmark",
               "agent-survey",
@@ -129,7 +129,7 @@
             "open_issues": 119,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7206,
+            "stars": 7208,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -220,6 +220,46 @@
         },
         {
           "node_type": "item",
+          "title": "Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment",
+          "description": "[arXiv 2026] [Github][Project page][HuggingFace🤗] Dwip Dalal, Shivansh Patel, Chahit Jain, Jeonghwan Kim, Utkarsh Mishra, Yuchen Song, Alex Baratian, Hyeonjeong Ha, Heng Ji, Svetlana Lazebnik, Unnat Jain University of Illinois Urbana-Champaign, Texas A&M University, University of California, Irvine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Anchor-Align (arXiv:2607.13429): VLA finetuning that prevents behavior cloning from erasing pretrained VLM representations (catastrophic forgetting) and aligns language with actions. OOD generalization on a physical xArm7, LIBERO-PRO, LIBERO-Plus and CALVIN.",
+            "homepage": "https://anchoralignvla.github.io/",
+            "id": 1179925053,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T09:54:28Z",
+            "open_issues": 0,
+            "owner": "dwipddalal",
+            "repo": "Anchor-Align",
+            "stars": 39,
+            "topics": [
+              "behavior-cloning",
+              "calvin",
+              "catastrophic-forgetting",
+              "embodied-ai",
+              "foundation-models",
+              "generalization",
+              "imitation-learning",
+              "knowledge-distillation",
+              "language-grounding",
+              "libero",
+              "ood-generalization",
+              "pytorch",
+              "robot-learning",
+              "robot-manipulation",
+              "robotics",
+              "vision-language-action",
+              "vision-language-model",
+              "vla"
+            ]
+          },
+          "first_seen": "2026-10-24T19:57:33.777Z"
+        },
+        {
+          "node_type": "item",
           "title": "Symbolic Learning Enables Self-Evolving Agents",
           "description": "[arXiv 2024.06] [Github] Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang AIWaves Inc. https://meta-control-paper.github.io/",
           "children": [],
@@ -231,7 +271,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-09-26T03:12:53Z",
-            "open_issues": 50,
+            "open_issues": 67,
             "owner": "aiwaves-cn",
             "repo": "agents",
             "stars": 5969,
@@ -259,7 +299,7 @@
             "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 852,
+            "stars": 851,
             "topics": [
               "agent",
               "large-language-models",
@@ -306,7 +346,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9325,
+            "stars": 9326,
             "topics": [
               "agent",
               "android",
@@ -340,7 +380,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9325,
+            "stars": 9326,
             "topics": [
               "agent",
               "android",
@@ -374,7 +414,7 @@
             "open_issues": 99,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6909,
+            "stars": 6908,
             "topics": [
               "agent",
               "chatgpt",
@@ -436,8 +476,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T20:28:17Z",
-            "open_issues": 116,
+            "last_commit": "2026-10-24T14:18:07Z",
+            "open_issues": 101,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 277,
@@ -559,7 +599,7 @@
             "open_issues": 5,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 516,
+            "stars": 517,
             "topics": [
               "agent",
               "embodied-ai",
@@ -614,7 +654,7 @@
             "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
-            "stars": 85,
+            "stars": 88,
             "topics": [
               "embodied-ai",
               "on-policy-distillation",
@@ -679,7 +719,7 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:56:07Z",
+            "last_commit": "2026-10-24T19:29:27Z",
             "open_issues": 78,
             "owner": "BasisResearch",
             "repo": "predicators",
@@ -704,7 +744,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7283,
+            "stars": 7284,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -857,7 +897,7 @@
             "open_issues": 3,
             "owner": "RoboClaw-Robotics",
             "repo": "RoboClaw",
-            "stars": 169,
+            "stars": 170,
             "topics": []
           },
           "first_seen": "2026-09-16T20:36:53.494Z"
@@ -1035,7 +1075,7 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:56:07Z",
+            "last_commit": "2026-10-24T19:29:27Z",
             "open_issues": 78,
             "owner": "BasisResearch",
             "repo": "predicators",
@@ -1056,7 +1096,7 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-23T19:56:07Z",
+            "last_commit": "2026-10-24T19:29:27Z",
             "open_issues": 78,
             "owner": "BasisResearch",
             "repo": "predicators",
@@ -1262,7 +1302,7 @@
             "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 896,
+            "stars": 898,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1283,7 +1323,7 @@
             "open_issues": 14,
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 858,
+            "stars": 857,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1487,7 +1527,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3850,
+            "stars": 3849,
             "topics": [
               "ai",
               "computer-vision",
@@ -1515,7 +1555,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1600,7 +1640,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4246,
+            "stars": 4247,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1663,7 +1703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:46:51.066Z",
+    "last_updated": "2026-10-24T19:57:33.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1671,7 +1711,7 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-14T07:34:10Z",
+      "last_commit": "2026-10-24T02:04:26Z",
       "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
@@ -1688,7 +1728,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "7259a72469f081e12d64c53572957bc6126ddd04",
+    "original_repository_sha": "186c994c5e10a5705d27d0b690c114197af748e7",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
