@@ -63,11 +63,11 @@
             "id": 1363933723,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-24T06:23:02Z",
+            "last_commit": "2026-10-26T07:12:46Z",
             "open_issues": 0,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
-            "stars": 168,
+            "stars": 183,
             "topics": []
           },
           "first_seen": "2026-10-14T21:05:44.680Z"
@@ -85,10 +85,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-20T18:22:11Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "js-lee-AI",
             "repo": "awesome-llm-agent-papers",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "agent-benchmark",
               "agent-survey",
@@ -115,6 +115,27 @@
         },
         {
           "node_type": "item",
+          "title": "SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics",
+          "description": "[arXiv 2025.06] [Github] Hugging Face",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "homepage": "https://huggingface.co/docs/lerobot",
+            "id": 748713144,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-26T19:39:56Z",
+            "open_issues": 888,
+            "owner": "huggingface",
+            "repo": "lerobot",
+            "stars": 28490,
+            "topics": []
+          },
+          "first_seen": "2026-10-26T22:04:09.654Z"
+        },
+        {
+          "node_type": "item",
           "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
           "description": "[arXiv 2024.01] [Github][Project page][HuggingFace🤗] Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT",
           "children": [],
@@ -129,10 +150,31 @@
             "open_issues": 119,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7209,
+            "stars": 7213,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Igniting VLMs toward the Embodied Space (Wall-OSS)",
+          "description": "[arXiv 2025.09] [Github] Galbot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Building General-Purpose Robots Based on Embodied Foundation Model",
+            "homepage": "https://x2robot.com/en/research",
+            "id": 1050222011,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-18T06:48:24Z",
+            "open_issues": 52,
+            "owner": "X-Square-Robot",
+            "repo": "wall-x",
+            "stars": 1302,
+            "topics": []
+          },
+          "first_seen": "2026-10-26T22:04:09.654Z"
         },
         {
           "node_type": "item",
@@ -150,7 +192,7 @@
             "open_issues": 9,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 715,
+            "stars": 718,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -178,6 +220,27 @@
         },
         {
           "node_type": "item",
+          "title": "MolmoAct: Action Reasoning Models that can Reason in Space",
+          "description": "[arXiv 2025.08] [Github] Allen Institute for AI (AI2)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Repository for MolmoAct",
+            "homepage": "https://allenai.org/blog/molmoact",
+            "id": 1030555895,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-11T18:26:49Z",
+            "open_issues": 3,
+            "owner": "allenai",
+            "repo": "molmoact",
+            "stars": 393,
+            "topics": []
+          },
+          "first_seen": "2026-10-26T22:04:09.654Z"
+        },
+        {
+          "node_type": "item",
           "title": "Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks",
           "description": "[arXiv 2025.03] [Github] [Project Page] [HuggingFace🤗] Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba Group",
           "children": [],
@@ -188,11 +251,11 @@
             "id": 952589852,
             "language": "Python",
             "license": "MulanPSL-2.0",
-            "last_commit": "2026-10-20T11:22:27Z",
+            "last_commit": "2026-10-26T21:08:17Z",
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 260,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -299,7 +362,7 @@
             "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 852,
+            "stars": 851,
             "topics": [
               "agent",
               "large-language-models",
@@ -346,7 +409,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9329,
+            "stars": 9330,
             "topics": [
               "agent",
               "android",
@@ -380,7 +443,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9329,
+            "stars": 9330,
             "topics": [
               "agent",
               "android",
@@ -476,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T19:56:14Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-26T19:46:51Z",
+            "open_issues": 104,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 278,
@@ -578,7 +641,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3211,
+            "stars": 3210,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -596,7 +659,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-05T06:26:09Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
             "stars": 517,
@@ -650,7 +713,7 @@
             "id": 1368647527,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T05:39:01Z",
+            "last_commit": "2026-10-26T21:08:19Z",
             "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
@@ -744,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7288,
+            "stars": 7292,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -850,7 +913,7 @@
             "open_issues": 2,
             "owner": "OSU-NLP-Group",
             "repo": "LLM-Planner",
-            "stars": 226,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -935,7 +998,7 @@
             "id": 764136145,
             "language": "Python",
             "license": null,
-            "last_commit": "2024-09-02T13:56:23Z",
+            "last_commit": "2026-10-26T21:17:34Z",
             "open_issues": 3,
             "owner": "ZJU-OmniAI",
             "repo": "Agent-Pro",
@@ -1050,7 +1113,7 @@
             "open_issues": 0,
             "owner": "mll-lab-nu",
             "repo": "ViewAgent",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "active-perception",
               "benchmark",
@@ -1121,7 +1184,7 @@
             "open_issues": 0,
             "owner": "robotuse-team",
             "repo": "RobotUse",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "agent-harness",
               "embodied-ai",
@@ -1170,7 +1233,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 316,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1344,7 +1407,7 @@
             "open_issues": 23,
             "owner": "askforalfred",
             "repo": "alfred",
-            "stars": 531,
+            "stars": 532,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1361,11 +1424,11 @@
             "id": 952589852,
             "language": "Python",
             "license": "MulanPSL-2.0",
-            "last_commit": "2026-10-20T11:22:27Z",
+            "last_commit": "2026-10-26T21:08:17Z",
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 260,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1517,7 +1580,7 @@
           "description": "[ICCV 2019] [Project page] [Habitat-Sim] [Habitat-Lab] [Habitat Challenge] Facebook AI Research, Facebook Reality Labs, Georgia Institute of Technology, Simon Fraser University, Intel Labs, UC Berkeley",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A flexible, high-performance 3D simulator for Embodied AI research.",
             "homepage": "https://aihabitat.org/",
             "id": 169164539,
@@ -1527,7 +1590,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3851,
+            "stars": 3852,
             "topics": [
               "ai",
               "computer-vision",
@@ -1640,7 +1703,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4247,
+            "stars": 4246,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1693,7 +1756,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2277,
+            "stars": 2278,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1703,7 +1766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:07:56.124Z",
+    "last_updated": "2026-10-26T22:04:09.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1711,11 +1774,11 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-24T02:04:26Z",
+      "last_commit": "2026-10-26T02:11:31Z",
       "open_issues": 3,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1907,
+      "stars": 1910,
       "topics": [
         "agent",
         "awesome",
@@ -1728,7 +1791,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "186c994c5e10a5705d27d0b690c114197af748e7",
+    "original_repository_sha": "93f7795236eed98e1e99a1e017f4976957c6fbad",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
