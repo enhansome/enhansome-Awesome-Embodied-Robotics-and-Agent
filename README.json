@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
-            "stars": 248,
+            "stars": 252,
             "topics": []
           },
           "first_seen": "2026-10-14T21:05:44.680Z"
@@ -84,8 +84,8 @@
             "id": 1292978423,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T22:50:43Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-02T13:07:22Z",
+            "open_issues": 0,
             "owner": "js-lee-AI",
             "repo": "awesome-llm-agent-papers",
             "stars": 105,
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T21:03:14Z",
-            "open_issues": 882,
+            "last_commit": "2026-11-02T23:21:33Z",
+            "open_issues": 894,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28629,
+            "stars": 28649,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7244,
+            "stars": 7252,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -362,7 +362,7 @@
             "open_issues": 32,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 854,
+            "stars": 856,
             "topics": [
               "agent",
               "large-language-models",
@@ -405,11 +405,11 @@
             "id": 748674684,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T03:02:18Z",
-            "open_issues": 197,
+            "last_commit": "2026-11-02T09:53:53Z",
+            "open_issues": 194,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9349,
+            "stars": 9353,
             "topics": [
               "agent",
               "android",
@@ -439,11 +439,11 @@
             "id": 748674684,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T03:02:18Z",
-            "open_issues": 197,
+            "last_commit": "2026-11-02T09:53:53Z",
+            "open_issues": 194,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9349,
+            "stars": 9353,
             "topics": [
               "agent",
               "android",
@@ -539,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T10:40:38Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-02T20:37:57Z",
+            "open_issues": 110,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 283,
@@ -641,7 +641,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3213,
+            "stars": 3214,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -717,7 +717,7 @@
             "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "embodied-ai",
               "on-policy-distillation",
@@ -782,8 +782,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T19:29:27Z",
-            "open_issues": 78,
+            "last_commit": "2026-11-03T00:07:12Z",
+            "open_issues": 55,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 24,
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7306,
+            "stars": 7309,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -833,7 +833,7 @@
             "open_issues": 31,
             "owner": "UMass-Embodied-AGI",
             "repo": "3D-LLM",
-            "stars": 1218,
+            "stars": 1219,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -956,11 +956,11 @@
             "id": 1394348802,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T14:41:37Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-02T08:05:54Z",
+            "open_issues": 2,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 175,
+            "stars": 179,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1171,8 +1171,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T19:29:27Z",
-            "open_issues": 78,
+            "last_commit": "2026-11-03T00:07:12Z",
+            "open_issues": 55,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 24,
@@ -1192,8 +1192,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T19:29:27Z",
-            "open_issues": 78,
+            "last_commit": "2026-11-03T00:07:12Z",
+            "open_issues": 55,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 24,
@@ -1442,10 +1442,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-08T15:40:09Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 902,
+            "stars": 904,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1466,7 +1466,7 @@
             "open_issues": 14,
             "owner": "vimalabs",
             "repo": "VIMA",
-            "stars": 857,
+            "stars": 856,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1592,7 +1592,7 @@
             "open_issues": 1,
             "owner": "TidalHarley",
             "repo": "NavSpace",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -1670,7 +1670,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3852,
+            "stars": 3851,
             "topics": [
               "ai",
               "computer-vision",
@@ -1783,7 +1783,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4258,
+            "stars": 4259,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1810,7 +1810,7 @@
             "open_issues": 114,
             "owner": "JIA-Lab-research",
             "repo": "LISA",
-            "stars": 2690,
+            "stars": 2692,
             "topics": [
               "large-language-model",
               "llm",
@@ -1836,7 +1836,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2281,
+            "stars": 2282,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1846,7 +1846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:28:58.210Z",
+    "last_updated": "2026-11-03T00:11:00.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
