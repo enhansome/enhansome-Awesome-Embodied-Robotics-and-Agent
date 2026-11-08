@@ -36,8 +36,8 @@
             "id": 1363933723,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-06T06:31:29Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-08T04:19:15Z",
+            "open_issues": 0,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
             "stars": 289,
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T20:46:36Z",
-            "open_issues": 916,
+            "last_commit": "2026-11-08T21:13:52Z",
+            "open_issues": 920,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28734,
+            "stars": 28757,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -171,7 +171,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1313,
+            "stars": 1315,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -337,7 +337,7 @@
             "open_issues": 71,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5965,
+            "stars": 5966,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -409,7 +409,7 @@
             "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9370,
+            "stars": 9372,
             "topics": [
               "agent",
               "android",
@@ -443,7 +443,7 @@
             "open_issues": 195,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9370,
+            "stars": 9372,
             "topics": [
               "agent",
               "android",
@@ -539,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T20:52:59Z",
-            "open_issues": 103,
+            "last_commit": "2026-11-08T18:34:46Z",
+            "open_issues": 101,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 285,
@@ -662,7 +662,7 @@
             "open_issues": 9,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "agent",
               "embodied-ai",
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7317,
+            "stars": 7319,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -1014,7 +1014,7 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 153,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1200,6 +1200,27 @@
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
+          "description": "[arXiv 2026.10] [Code] Luozheng Qin, Yuhan Zhu, Changhai Zhou, Qian Qiao, Jun Gao, Yuhua Zhou, Harry Zhang, Xiangyu Zeng, Yuxuan Liu, Yuxin Lu, Kaijie Chen, Andrew Chen, Pony Ma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1384493797,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-16T06:53:29Z",
+            "open_issues": 0,
+            "owner": "Fr0zenCrane",
+            "repo": "MJev-Spatial",
+            "stars": 23,
+            "topics": []
+          },
+          "first_seen": "2026-11-08T21:27:51.860Z"
         },
         {
           "node_type": "item",
@@ -1445,7 +1466,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 909,
+            "stars": 910,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1670,7 +1691,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3852,
+            "stars": 3850,
             "topics": [
               "ai",
               "computer-vision",
@@ -1783,7 +1804,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4267,
+            "stars": 4269,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1810,7 +1831,7 @@
             "open_issues": 114,
             "owner": "JIA-Lab-research",
             "repo": "LISA",
-            "stars": 2690,
+            "stars": 2691,
             "topics": [
               "large-language-model",
               "llm",
@@ -1846,7 +1867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T21:12:50.385Z",
+    "last_updated": "2026-11-08T21:27:51.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1854,8 +1875,8 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-10-30T10:54:00Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-08T07:33:35Z",
+      "open_issues": 1,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
       "stars": 1916,
@@ -1871,7 +1892,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "6f1027d41f076d95211c6dd5edd5da2a292b77a1",
+    "original_repository_sha": "e3f69ff16b6c57993fbe01e390ec1a490964f9a8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
