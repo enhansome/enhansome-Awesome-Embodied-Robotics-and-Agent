@@ -37,10 +37,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-08T04:19:15Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
-            "stars": 289,
+            "stars": 290,
             "topics": []
           },
           "first_seen": "2026-10-14T21:05:44.680Z"
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "efficient",
               "embodied-ai",
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T22:21:08Z",
-            "open_issues": 922,
+            "last_commit": "2026-11-10T17:40:29Z",
+            "open_issues": 931,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28774,
+            "stars": 28796,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7282,
+            "stars": 7288,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +171,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1319,
+            "stars": 1320,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -255,7 +255,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 264,
+            "stars": 267,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -337,7 +337,7 @@
             "open_issues": 71,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5965,
+            "stars": 5964,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -409,7 +409,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9372,
+            "stars": 9374,
             "topics": [
               "agent",
               "android",
@@ -443,7 +443,7 @@
             "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9372,
+            "stars": 9374,
             "topics": [
               "agent",
               "android",
@@ -474,10 +474,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-03-19T11:01:38Z",
-            "open_issues": 99,
+            "open_issues": 100,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6917,
+            "stars": 6920,
             "topics": [
               "agent",
               "chatgpt",
@@ -539,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:19:47Z",
-            "open_issues": 102,
+            "last_commit": "2026-11-10T20:36:52Z",
+            "open_issues": 104,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 285,
@@ -662,7 +662,7 @@
             "open_issues": 9,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 521,
+            "stars": 522,
             "topics": [
               "agent",
               "embodied-ai",
@@ -782,8 +782,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:08:25Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-10T22:35:11Z",
+            "open_issues": 22,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7318,
+            "stars": 7320,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -920,6 +920,39 @@
         },
         {
           "node_type": "item",
+          "title": "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+          "description": "[arXiv 2026.09] [Project Page] [Github] Long Li, Qichao Zhao, Yue Yang, Fan Xu, Zhe Wang, Alan Wee-Chung Liew, Chao Qu, Heng Tao Shen, Shirui Pan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+            "homepage": "https://zqc3117.github.io/Spotter/",
+            "id": 1394348802,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-05T15:23:18Z",
+            "open_issues": 1,
+            "owner": "zqc3117",
+            "repo": "Spotter",
+            "stars": 195,
+            "topics": [
+              "embodied-ai",
+              "llm-agent",
+              "qwen",
+              "robocasa",
+              "robodojo",
+              "robot-learning",
+              "robot-manipulation",
+              "robotics",
+              "robotwin",
+              "runtime-monitoring-system",
+              "vlm-agent"
+            ]
+          },
+          "first_seen": "2026-10-27T21:35:26.576Z"
+        },
+        {
+          "node_type": "item",
           "title": "Embodied Task Planning with Large Language Models",
           "description": "[arXiv 2023] [Github] [Project page] [Demo] [Huggingface Model] Zhenyu Wu1, Ziwei Wang2,3, Xiuwei Xu2,3, Jiwen Lu2,3, Haibin Yan1* 1School of Automation, Beijing University of Posts and Telecommunications, 2Department of Automation, Tsinghua University, 3Beijing National Research Center for Information Science and Technology",
           "children": [],
@@ -943,39 +976,6 @@
             ]
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-          "description": "[arXiv 2026.09] [Project Page] [Github] Long Li, Qichao Zhao, Yue Yang, Fan Xu, Zhe Wang, Alan Wee-Chung Liew, Chao Qu, Heng Tao Shen, Shirui Pan",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-            "homepage": "https://zqc3117.github.io/Spotter/",
-            "id": 1394348802,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-05T15:23:18Z",
-            "open_issues": 1,
-            "owner": "zqc3117",
-            "repo": "Spotter",
-            "stars": 190,
-            "topics": [
-              "embodied-ai",
-              "llm-agent",
-              "qwen",
-              "robocasa",
-              "robodojo",
-              "robot-learning",
-              "robot-manipulation",
-              "robotics",
-              "robotwin",
-              "runtime-monitoring-system",
-              "vlm-agent"
-            ]
-          },
-          "first_seen": "2026-10-27T21:35:26.576Z"
         },
         {
           "node_type": "item",
@@ -1171,8 +1171,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:08:25Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-10T22:35:11Z",
+            "open_issues": 22,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1192,8 +1192,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:08:25Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-10T22:35:11Z",
+            "open_issues": 22,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1208,7 +1208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
             "homepage": null,
             "id": 1384493797,
             "language": "Python",
@@ -1466,7 +1466,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 912,
+            "stars": 913,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1529,7 +1529,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 264,
+            "stars": 267,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1719,7 +1719,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1830,
+            "stars": 1831,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1804,7 +1804,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4273,
+            "stars": 4278,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1857,7 +1857,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2283,
+            "stars": 2282,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1867,7 +1867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:58:14.359Z",
+    "last_updated": "2026-11-10T22:38:38.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
