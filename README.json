@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T21:13:52Z",
-            "open_issues": 920,
+            "last_commit": "2026-11-09T22:21:08Z",
+            "open_issues": 922,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28757,
+            "stars": 28774,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7275,
+            "stars": 7282,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +171,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1315,
+            "stars": 1319,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -192,7 +192,7 @@
             "open_issues": 9,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 711,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -255,7 +255,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 263,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -337,7 +337,7 @@
             "open_issues": 71,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5966,
+            "stars": 5965,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -406,7 +406,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T05:27:08Z",
-            "open_issues": 195,
+            "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
             "stars": 9372,
@@ -440,7 +440,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T05:27:08Z",
-            "open_issues": 195,
+            "open_issues": 196,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
             "stars": 9372,
@@ -539,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T18:34:46Z",
-            "open_issues": 101,
+            "last_commit": "2026-11-09T16:19:47Z",
+            "open_issues": 102,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 285,
@@ -641,7 +641,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3219,
+            "stars": 3220,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -786,7 +786,7 @@
             "open_issues": 34,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7319,
+            "stars": 7318,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -960,7 +960,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 188,
+            "stars": 190,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1175,7 +1175,7 @@
             "open_issues": 34,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
@@ -1196,7 +1196,7 @@
             "open_issues": 34,
             "owner": "BasisResearch",
             "repo": "predicators",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-10-11T21:12:34.903Z"
@@ -1466,7 +1466,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 910,
+            "stars": 912,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1529,7 +1529,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 263,
+            "stars": 264,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1613,7 +1613,7 @@
             "open_issues": 1,
             "owner": "TidalHarley",
             "repo": "NavSpace",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -1691,7 +1691,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3850,
+            "stars": 3849,
             "topics": [
               "ai",
               "computer-vision",
@@ -1719,7 +1719,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1829,
+            "stars": 1830,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1746,7 +1746,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 377,
+            "stars": 378,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -1804,7 +1804,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4269,
+            "stars": 4273,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1867,7 +1867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:27:51.860Z",
+    "last_updated": "2026-11-10T00:58:14.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
