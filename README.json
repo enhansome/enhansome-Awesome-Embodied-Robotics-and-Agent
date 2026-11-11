@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T17:40:29Z",
-            "open_issues": 931,
+            "last_commit": "2026-11-11T15:47:20Z",
+            "open_issues": 949,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28796,
+            "stars": 28822,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7288,
+            "stars": 7296,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -406,10 +406,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T05:27:08Z",
-            "open_issues": 196,
+            "open_issues": 197,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9374,
+            "stars": 9379,
             "topics": [
               "agent",
               "android",
@@ -440,10 +440,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T05:27:08Z",
-            "open_issues": 196,
+            "open_issues": 197,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9374,
+            "stars": 9379,
             "topics": [
               "agent",
               "android",
@@ -477,7 +477,7 @@
             "open_issues": 100,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6920,
+            "stars": 6922,
             "topics": [
               "agent",
               "chatgpt",
@@ -539,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T20:36:52Z",
-            "open_issues": 104,
+            "last_commit": "2026-11-11T20:27:16Z",
+            "open_issues": 99,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 285,
@@ -641,7 +641,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3220,
+            "stars": 3222,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -662,7 +662,7 @@
             "open_issues": 9,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 522,
+            "stars": 524,
             "topics": [
               "agent",
               "embodied-ai",
@@ -717,7 +717,7 @@
             "open_issues": 1,
             "owner": "ZJU-OmniAI",
             "repo": "Spatial-Interactor",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "embodied-ai",
               "on-policy-distillation",
@@ -782,8 +782,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T22:35:11Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-11T03:43:37Z",
+            "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7320,
+            "stars": 7321,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -993,7 +993,7 @@
             "open_issues": 3,
             "owner": "RoboClaw-Robotics",
             "repo": "RoboClaw",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-09-16T20:36:53.494Z"
@@ -1171,8 +1171,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T22:35:11Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-11T03:43:37Z",
+            "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1192,8 +1192,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-10T22:35:11Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-11T03:43:37Z",
+            "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1613,7 +1613,7 @@
             "open_issues": 1,
             "owner": "TidalHarley",
             "repo": "NavSpace",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "benchmark",
               "embodied-ai",
@@ -1804,7 +1804,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4278,
+            "stars": 4275,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1867,7 +1867,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:38:38.259Z",
+    "last_updated": "2026-11-11T23:49:47.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1876,7 +1876,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-11-08T07:33:35Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
       "stars": 1916,
