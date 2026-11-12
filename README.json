@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
-            "stars": 290,
+            "stars": 291,
             "topics": []
           },
           "first_seen": "2026-10-14T21:05:44.680Z"
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T15:47:20Z",
-            "open_issues": 949,
+            "last_commit": "2026-11-12T21:54:16Z",
+            "open_issues": 957,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28822,
+            "stars": 28844,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7296,
+            "stars": 7299,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +171,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1320,
+            "stars": 1321,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -337,7 +337,7 @@
             "open_issues": 71,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5964,
+            "stars": 5963,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -362,7 +362,7 @@
             "open_issues": 33,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 857,
+            "stars": 858,
             "topics": [
               "agent",
               "large-language-models",
@@ -409,7 +409,7 @@
             "open_issues": 197,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9379,
+            "stars": 9377,
             "topics": [
               "agent",
               "android",
@@ -443,7 +443,7 @@
             "open_issues": 197,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9379,
+            "stars": 9377,
             "topics": [
               "agent",
               "android",
@@ -477,7 +477,7 @@
             "open_issues": 100,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6922,
+            "stars": 6921,
             "topics": [
               "agent",
               "chatgpt",
@@ -539,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T20:27:16Z",
-            "open_issues": 99,
+            "last_commit": "2026-11-12T22:29:11Z",
+            "open_issues": 97,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 285,
@@ -641,7 +641,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3222,
+            "stars": 3221,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7321,
+            "stars": 7323,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 196,
+            "stars": 198,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1466,7 +1466,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 913,
+            "stars": 914,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1677,6 +1677,39 @@
         },
         {
           "node_type": "item",
+          "title": "LEASH: Stay Safe in Agentic Robotics",
+          "description": "[arXiv 2026.11] [Github] [Project Page] Qinfeng Zhu, Weiguang Zhao, Ke Sun, Xihao Guo, Yunxi Jiang, Rui Zhang, Lei Fan, and Kaizhu Huang Xi'an Jiaotong-Liverpool University, Duke Kunshan University, University of Liverpool, National University of Singapore, CNRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LEASH: Stay Safe in Agentic Robotics. RoboRisk benchmark (92 simulated + 13 real-robot tasks) and a camera-grounded safety harness for foundation-model robot planners.",
+            "homepage": "https://zhuqinfeng1999.github.io/LEASH/",
+            "id": 1452622952,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-12T18:03:11Z",
+            "open_issues": 1,
+            "owner": "zhuqinfeng1999",
+            "repo": "LEASH",
+            "stars": 3,
+            "topics": [
+              "agentic-ai",
+              "ai-safety",
+              "benchmark",
+              "embodied-ai",
+              "foundation-models",
+              "libero",
+              "llm-agents",
+              "robot-manipulation",
+              "robot-safety",
+              "robotics",
+              "vision-language-models"
+            ]
+          },
+          "first_seen": "2026-11-12T22:57:35.580Z"
+        },
+        {
+          "node_type": "item",
           "title": "Habitat: A Platform for Embodied AI Research",
           "description": "[ICCV 2019] [Project page] [Habitat-Sim] [Habitat-Lab] [Habitat Challenge] Facebook AI Research, Facebook Reality Labs, Georgia Institute of Technology, Simon Fraser University, Intel Labs, UC Berkeley",
           "children": [],
@@ -1719,7 +1752,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1831,
+            "stars": 1830,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1804,7 +1837,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4275,
+            "stars": 4276,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1867,7 +1900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:49:47.598Z",
+    "last_updated": "2026-11-12T22:57:35.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1875,11 +1908,11 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-11-08T07:33:35Z",
+      "last_commit": "2026-11-12T01:53:34Z",
       "open_issues": 2,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1916,
+      "stars": 1917,
       "topics": [
         "agent",
         "awesome",
@@ -1892,7 +1925,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "e3f69ff16b6c57993fbe01e390ec1a490964f9a8",
+    "original_repository_sha": "b7e76915cec2a9cbf79790f9ec4da1006df5d3ab",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
