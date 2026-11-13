@@ -85,10 +85,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-05T18:37:16Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "js-lee-AI",
             "repo": "awesome-llm-agent-papers",
-            "stars": 113,
+            "stars": 114,
             "topics": [
               "agent-benchmark",
               "agent-survey",
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T21:54:16Z",
-            "open_issues": 957,
+            "last_commit": "2026-11-13T21:16:21Z",
+            "open_issues": 962,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28844,
+            "stars": 28866,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7299,
+            "stars": 7300,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +171,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1321,
+            "stars": 1324,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -213,7 +213,7 @@
             "open_issues": 16,
             "owner": "MichalZawalski",
             "repo": "embodied-CoT",
-            "stars": 420,
+            "stars": 419,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -255,7 +255,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 267,
+            "stars": 268,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -409,7 +409,7 @@
             "open_issues": 197,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9377,
+            "stars": 9379,
             "topics": [
               "agent",
               "android",
@@ -443,7 +443,7 @@
             "open_issues": 197,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9377,
+            "stars": 9379,
             "topics": [
               "agent",
               "android",
@@ -477,7 +477,7 @@
             "open_issues": 100,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6921,
+            "stars": 6920,
             "topics": [
               "agent",
               "chatgpt",
@@ -539,11 +539,11 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T22:29:11Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-13T18:09:30Z",
+            "open_issues": 96,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "diagnostics",
               "edge",
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7323,
+            "stars": 7325,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 198,
+            "stars": 202,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1287,7 +1287,7 @@
             "open_issues": 6,
             "owner": "UMass-Embodied-AGI",
             "repo": "CoELA",
-            "stars": 318,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1466,7 +1466,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 914,
+            "stars": 915,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1529,7 +1529,7 @@
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
-            "stars": 267,
+            "stars": 268,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1656,6 +1656,39 @@
         },
         {
           "node_type": "item",
+          "title": "LEASH: Stay Safe in Agentic Robotics",
+          "description": "[arXiv 2026.11] [Github] [Project Page] Qinfeng Zhu, Weiguang Zhao, Ke Sun, Xihao Guo, Yunxi Jiang, Rui Zhang, Lei Fan, and Kaizhu Huang Xi'an Jiaotong-Liverpool University, Duke Kunshan University, University of Liverpool, National University of Singapore, CNRS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LEASH: Stay Safe in Agentic Robotics. RoboRisk benchmark (92 simulated + 13 real-robot tasks) and a camera-grounded safety harness for foundation-model robot planners.",
+            "homepage": "https://zhuqinfeng1999.github.io/LEASH/",
+            "id": 1452622952,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-12T18:03:11Z",
+            "open_issues": 1,
+            "owner": "zhuqinfeng1999",
+            "repo": "LEASH",
+            "stars": 5,
+            "topics": [
+              "agentic-ai",
+              "ai-safety",
+              "benchmark",
+              "embodied-ai",
+              "foundation-models",
+              "libero",
+              "llm-agents",
+              "robot-manipulation",
+              "robot-safety",
+              "robotics",
+              "vision-language-models"
+            ]
+          },
+          "first_seen": "2026-11-12T22:57:35.580Z"
+        },
+        {
+          "node_type": "item",
           "title": "Env-QA: A Video Question Answering Benchmark for Comprehensive Understanding of Dynamic Environments",
           "description": "[ICCV 2021] [Project page] [Github] Difei Gao1,2, Ruiping Wang1,2,3, Ziyi Bai1,2, Xilin Chen1, 1Key Laboratory of Intelligent Information Processing of Chinese Academy of Sciences (CAS), Institute of Computing Technology, CAS, 2University of Chinese Academy of Sciences, 3Beijing Academy of Artificial Intelligence",
           "children": [],
@@ -1674,39 +1707,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LEASH: Stay Safe in Agentic Robotics",
-          "description": "[arXiv 2026.11] [Github] [Project Page] Qinfeng Zhu, Weiguang Zhao, Ke Sun, Xihao Guo, Yunxi Jiang, Rui Zhang, Lei Fan, and Kaizhu Huang Xi'an Jiaotong-Liverpool University, Duke Kunshan University, University of Liverpool, National University of Singapore, CNRS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "LEASH: Stay Safe in Agentic Robotics. RoboRisk benchmark (92 simulated + 13 real-robot tasks) and a camera-grounded safety harness for foundation-model robot planners.",
-            "homepage": "https://zhuqinfeng1999.github.io/LEASH/",
-            "id": 1452622952,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-12T18:03:11Z",
-            "open_issues": 1,
-            "owner": "zhuqinfeng1999",
-            "repo": "LEASH",
-            "stars": 3,
-            "topics": [
-              "agentic-ai",
-              "ai-safety",
-              "benchmark",
-              "embodied-ai",
-              "foundation-models",
-              "libero",
-              "llm-agents",
-              "robot-manipulation",
-              "robot-safety",
-              "robotics",
-              "vision-language-models"
-            ]
-          },
-          "first_seen": "2026-11-12T22:57:35.580Z"
         },
         {
           "node_type": "item",
@@ -1837,7 +1837,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4276,
+            "stars": 4277,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1900,7 +1900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:57:35.580Z",
+    "last_updated": "2026-11-13T22:59:54.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1909,10 +1909,10 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-11-12T01:53:34Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1917,
+      "stars": 1920,
       "topics": [
         "agent",
         "awesome",
