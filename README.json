@@ -36,7 +36,7 @@
             "id": 1363933723,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-08T04:19:15Z",
+            "last_commit": "2026-11-14T05:49:45Z",
             "open_issues": 1,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
@@ -84,8 +84,8 @@
             "id": 1292978423,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T18:37:16Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-14T00:06:11Z",
+            "open_issues": 0,
             "owner": "js-lee-AI",
             "repo": "awesome-llm-agent-papers",
             "stars": 114,
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T21:16:21Z",
-            "open_issues": 962,
+            "last_commit": "2026-11-14T11:35:42Z",
+            "open_issues": 969,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28866,
+            "stars": 28879,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7300,
+            "stars": 7301,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +171,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1324,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -251,7 +251,7 @@
             "id": 952589852,
             "language": "Python",
             "license": "MulanPSL-2.0",
-            "last_commit": "2026-10-26T21:08:17Z",
+            "last_commit": "2026-11-14T05:14:57Z",
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "dwipddalal",
             "repo": "Anchor-Align",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "behavior-cloning",
               "calvin",
@@ -477,7 +477,7 @@
             "open_issues": 100,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6920,
+            "stars": 6922,
             "topics": [
               "agent",
               "chatgpt",
@@ -543,7 +543,7 @@
             "open_issues": 96,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
-            "stars": 286,
+            "stars": 287,
             "topics": [
               "diagnostics",
               "edge",
@@ -659,7 +659,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-29T10:15:39Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
             "stars": 524,
@@ -782,8 +782,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T03:43:37Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-14T20:57:53Z",
+            "open_issues": 37,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -934,7 +934,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 202,
+            "stars": 206,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1171,8 +1171,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T03:43:37Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-14T20:57:53Z",
+            "open_issues": 37,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1192,8 +1192,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T03:43:37Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-14T20:57:53Z",
+            "open_issues": 37,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1466,7 +1466,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 915,
+            "stars": 916,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1525,7 +1525,7 @@
             "id": 952589852,
             "language": "Python",
             "license": "MulanPSL-2.0",
-            "last_commit": "2026-10-26T21:08:17Z",
+            "last_commit": "2026-11-14T05:14:57Z",
             "open_issues": 9,
             "owner": "ZJU-OmniAI",
             "repo": "Embodied-Omni",
@@ -1640,7 +1640,7 @@
             "open_issues": 0,
             "owner": "declare-lab",
             "repo": "RoboQuest",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -1823,6 +1823,48 @@
         },
         {
           "node_type": "item",
+          "title": "Alloy: A Multi-Material Physics Engine for Robot Learning",
+          "description": "[arXiv 2026.11] [Github] [Project Page] Pranay Gupta and Deepanshu Rohilla Argon Robotics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Alloy: a multi-material, parallel physics engine for robot learning, built on Newton, MuJoCo Warp and Warp. Rigid robots, cloth, liquids and soft bodies in one scene, in parallel worlds on a GPU (thousands for free rigid bodies, up to 4,096 for a robot arm), or on a CPU. Python 3.11 or 3.12.",
+            "homepage": "https://alloy.argonrobotics.ai",
+            "id": 1454460819,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-13T21:38:37Z",
+            "open_issues": 0,
+            "owner": "argonrobotics-ai",
+            "repo": "alloy",
+            "stars": 39,
+            "topics": [
+              "ai-agents",
+              "cloth-simulation",
+              "fluid-simulation",
+              "gpu",
+              "gymnasium",
+              "imitation-learning",
+              "mujoco",
+              "mujoco-warp",
+              "newton-physics",
+              "physics-engine",
+              "physics-simulation",
+              "python",
+              "reinforcement-learning",
+              "robot-learning",
+              "robot-simulation",
+              "robotics",
+              "sim-to-real",
+              "simulation",
+              "soft-body",
+              "warp"
+            ]
+          },
+          "first_seen": "2026-11-14T21:47:38.036Z"
+        },
+        {
+          "node_type": "item",
           "title": "React: Synergizing reasoning and acting in language models",
           "description": "[ICLR 2023] Shunyu Yao1∗, Jeffrey Zhao2, Dian Yu2, Nan Du2, Izhak Shafran2, Karthik Narasimhan1, Yuan Cao2 1Department of Computer Science, Princeton University 2, Google Research, Brain team",
           "children": [],
@@ -1837,7 +1879,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4277,
+            "stars": 4278,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1864,7 +1906,7 @@
             "open_issues": 114,
             "owner": "JIA-Lab-research",
             "repo": "LISA",
-            "stars": 2691,
+            "stars": 2693,
             "topics": [
               "large-language-model",
               "llm",
@@ -1890,7 +1932,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2282,
+            "stars": 2283,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1900,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:59:54.713Z",
+    "last_updated": "2026-11-14T21:47:38.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1908,11 +1950,11 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-11-12T01:53:34Z",
+      "last_commit": "2026-11-14T01:28:45Z",
       "open_issues": 3,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
-      "stars": 1920,
+      "stars": 1921,
       "topics": [
         "agent",
         "awesome",
@@ -1925,7 +1967,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "b7e76915cec2a9cbf79790f9ec4da1006df5d3ab",
+    "original_repository_sha": "0c6e0a08279fa9b49ed88b2ae34788e9c3523726",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
