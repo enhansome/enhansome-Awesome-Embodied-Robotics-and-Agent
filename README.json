@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "efficient",
               "embodied-ai",
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T11:35:42Z",
-            "open_issues": 969,
+            "last_commit": "2026-11-15T03:31:00Z",
+            "open_issues": 973,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28879,
+            "stars": 28895,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 118,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7301,
+            "stars": 7306,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -337,7 +337,7 @@
             "open_issues": 71,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5963,
+            "stars": 5964,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -362,7 +362,7 @@
             "open_issues": 33,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 858,
+            "stars": 859,
             "topics": [
               "agent",
               "large-language-models",
@@ -539,11 +539,11 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T18:09:30Z",
-            "open_issues": 96,
+            "last_commit": "2026-11-15T19:45:08Z",
+            "open_issues": 98,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
-            "stars": 287,
+            "stars": 288,
             "topics": [
               "diagnostics",
               "edge",
@@ -782,8 +782,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T20:57:53Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-15T12:10:47Z",
+            "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7325,
+            "stars": 7328,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -930,11 +930,11 @@
             "id": 1394348802,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T15:23:18Z",
+            "last_commit": "2026-11-15T11:15:08Z",
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 206,
+            "stars": 210,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1171,8 +1171,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T20:57:53Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-15T12:10:47Z",
+            "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1192,8 +1192,8 @@
             "id": 924105199,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T20:57:53Z",
-            "open_issues": 37,
+            "last_commit": "2026-11-15T12:10:47Z",
+            "open_issues": 12,
             "owner": "BasisResearch",
             "repo": "predicators",
             "stars": 26,
@@ -1213,7 +1213,7 @@
             "id": 1384493797,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T06:53:29Z",
+            "last_commit": "2026-11-15T07:48:17Z",
             "open_issues": 0,
             "owner": "Fr0zenCrane",
             "repo": "MJev-Spatial",
@@ -1466,7 +1466,7 @@
             "open_issues": 16,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 916,
+            "stars": 917,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1779,7 +1779,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 378,
+            "stars": 379,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -1833,11 +1833,11 @@
             "id": 1454460819,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T21:38:37Z",
+            "last_commit": "2026-11-15T17:24:23Z",
             "open_issues": 0,
             "owner": "argonrobotics-ai",
             "repo": "alloy",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "ai-agents",
               "cloth-simulation",
@@ -1879,7 +1879,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4278,
+            "stars": 4280,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1932,7 +1932,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2283,
+            "stars": 2284,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:47:38.036Z",
+    "last_updated": "2026-11-15T22:15:49.464Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
