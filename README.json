@@ -37,7 +37,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-19T07:12:48Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
             "stars": 293,
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T16:52:32Z",
-            "open_issues": 982,
+            "last_commit": "2026-11-20T20:15:50Z",
+            "open_issues": 989,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 28987,
+            "stars": 29001,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 117,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7322,
+            "stars": 7325,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +171,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1334,
+            "stars": 1336,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -406,10 +406,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T05:27:08Z",
-            "open_issues": 197,
+            "open_issues": 198,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9391,
+            "stars": 9394,
             "topics": [
               "agent",
               "android",
@@ -440,10 +440,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-03T05:27:08Z",
-            "open_issues": 197,
+            "open_issues": 198,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9391,
+            "stars": 9394,
             "topics": [
               "agent",
               "android",
@@ -539,7 +539,7 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T22:35:29Z",
+            "last_commit": "2026-11-20T15:39:10Z",
             "open_issues": 106,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
@@ -641,7 +641,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3220,
+            "stars": 3219,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -662,7 +662,7 @@
             "open_issues": 10,
             "owner": "mll-lab-nu",
             "repo": "VAGEN",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "agent",
               "embodied-ai",
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7334,
+            "stars": 7337,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -899,6 +899,39 @@
         },
         {
           "node_type": "item",
+          "title": "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+          "description": "[arXiv 2026.09] [Project Page] [Github] Long Li, Qichao Zhao, Yue Yang, Fan Xu, Zhe Wang, Alan Wee-Chung Liew, Chao Qu, Heng Tao Shen, Shirui Pan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+            "homepage": "https://zqc3117.github.io/Spotter/",
+            "id": 1394348802,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-16T06:33:47Z",
+            "open_issues": 1,
+            "owner": "zqc3117",
+            "repo": "Spotter",
+            "stars": 226,
+            "topics": [
+              "embodied-ai",
+              "llm-agent",
+              "qwen",
+              "robocasa",
+              "robodojo",
+              "robot-learning",
+              "robot-manipulation",
+              "robotics",
+              "robotwin",
+              "runtime-monitoring-system",
+              "vlm-agent"
+            ]
+          },
+          "first_seen": "2026-10-27T21:35:26.576Z"
+        },
+        {
+          "node_type": "item",
           "title": "LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models",
           "description": "[ICCV 2023] [Project page] [Github] Chan Hee Song1, Jiaman Wu1, Clayton Washington1, Brian M. Sadler2, Wei-Lun Chao1, Yu Su1 1The Ohio State University, 2DEVCOM ARL",
           "children": [],
@@ -917,39 +950,6 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-          "description": "[arXiv 2026.09] [Project Page] [Github] Long Li, Qichao Zhao, Yue Yang, Fan Xu, Zhe Wang, Alan Wee-Chung Liew, Chao Qu, Heng Tao Shen, Shirui Pan",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-            "homepage": "https://zqc3117.github.io/Spotter/",
-            "id": 1394348802,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-16T06:33:47Z",
-            "open_issues": 1,
-            "owner": "zqc3117",
-            "repo": "Spotter",
-            "stars": 224,
-            "topics": [
-              "embodied-ai",
-              "llm-agent",
-              "qwen",
-              "robocasa",
-              "robodojo",
-              "robot-learning",
-              "robot-manipulation",
-              "robotics",
-              "robotwin",
-              "runtime-monitoring-system",
-              "vlm-agent"
-            ]
-          },
-          "first_seen": "2026-10-27T21:35:26.576Z"
         },
         {
           "node_type": "item",
@@ -1833,11 +1833,11 @@
             "id": 1454460819,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T12:20:03Z",
+            "last_commit": "2026-11-20T08:28:45Z",
             "open_issues": 0,
             "owner": "argonrobotics-ai",
             "repo": "alloy",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "ai-agents",
               "cloth-simulation",
@@ -1879,7 +1879,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4286,
+            "stars": 4291,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1932,7 +1932,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2284,
+            "stars": 2283,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:59:56.061Z",
+    "last_updated": "2026-11-20T23:28:39.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
