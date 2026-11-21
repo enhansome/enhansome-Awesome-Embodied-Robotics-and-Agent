@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
-            "stars": 293,
+            "stars": 294,
             "topics": []
           },
           "first_seen": "2026-10-14T21:05:44.680Z"
@@ -85,10 +85,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-14T00:06:11Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "js-lee-AI",
             "repo": "awesome-llm-agent-papers",
-            "stars": 114,
+            "stars": 115,
             "topics": [
               "agent-benchmark",
               "agent-survey",
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T20:15:50Z",
-            "open_issues": 989,
+            "last_commit": "2026-11-21T20:06:40Z",
+            "open_issues": 993,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 29001,
+            "stars": 29017,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 117,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7325,
+            "stars": 7327,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -171,7 +171,7 @@
             "open_issues": 54,
             "owner": "X-Square-Robot",
             "repo": "wall-x",
-            "stars": 1336,
+            "stars": 1337,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -192,7 +192,7 @@
             "open_issues": 9,
             "owner": "amap-cvlab",
             "repo": "ABot-Manipulation",
-            "stars": 713,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -362,7 +362,7 @@
             "open_issues": 33,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "agent",
               "large-language-models",
@@ -409,7 +409,7 @@
             "open_issues": 198,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9394,
+            "stars": 9396,
             "topics": [
               "agent",
               "android",
@@ -443,7 +443,7 @@
             "open_issues": 198,
             "owner": "X-PLUG",
             "repo": "MobileAgent",
-            "stars": 9394,
+            "stars": 9396,
             "topics": [
               "agent",
               "android",
@@ -539,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T15:39:10Z",
-            "open_issues": 106,
+            "last_commit": "2026-11-21T21:21:02Z",
+            "open_issues": 108,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 290,
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7337,
+            "stars": 7339,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -913,7 +913,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 226,
+            "stars": 230,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -1014,7 +1014,7 @@
             "open_issues": 0,
             "owner": "NVlabs",
             "repo": "RoboSpatial",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1445,7 +1445,7 @@
             "open_issues": 6,
             "owner": "Genesis-Embodied-AI",
             "repo": "RoboGen",
-            "stars": 1230,
+            "stars": 1231,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1752,7 +1752,7 @@
             "open_issues": 281,
             "owner": "allenai",
             "repo": "ai2thor",
-            "stars": 1831,
+            "stars": 1832,
             "topics": [
               "artificial-intelligence",
               "computer-vision",
@@ -1837,7 +1837,7 @@
             "open_issues": 0,
             "owner": "argonrobotics-ai",
             "repo": "alloy",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "ai-agents",
               "cloth-simulation",
@@ -1879,7 +1879,7 @@
             "open_issues": 5,
             "owner": "ysymyth",
             "repo": "ReAct",
-            "stars": 4291,
+            "stars": 4292,
             "topics": [
               "decision-making",
               "large-language-models",
@@ -1932,7 +1932,7 @@
             "open_issues": 82,
             "owner": "MineDojo",
             "repo": "MineDojo",
-            "stars": 2283,
+            "stars": 2285,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -1942,7 +1942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:28:39.695Z",
+    "last_updated": "2026-11-21T22:33:42.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
