@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "showlab",
             "repo": "Awesome-Multimodal-Embodied-Agent",
-            "stars": 294,
+            "stars": 295,
             "topics": []
           },
           "first_seen": "2026-10-14T21:05:44.680Z"
@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "YuZhaoshu",
             "repo": "Efficient-VLAs-Survey",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "efficient",
               "embodied-ai",
@@ -125,11 +125,11 @@
             "id": 748713144,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T20:06:40Z",
-            "open_issues": 993,
+            "last_commit": "2026-11-22T14:29:35Z",
+            "open_issues": 1004,
             "owner": "huggingface",
             "repo": "lerobot",
-            "stars": 29017,
+            "stars": 29030,
             "topics": []
           },
           "first_seen": "2026-10-26T22:04:09.654Z"
@@ -150,7 +150,7 @@
             "open_issues": 117,
             "owner": "openvla",
             "repo": "openvla",
-            "stars": 7327,
+            "stars": 7332,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -337,7 +337,7 @@
             "open_issues": 68,
             "owner": "aiwaves-cn",
             "repo": "agents",
-            "stars": 5965,
+            "stars": 5964,
             "topics": [
               "autonomous-agents",
               "language-model",
@@ -477,7 +477,7 @@
             "open_issues": 100,
             "owner": "TencentQQGYLab",
             "repo": "AppAgent",
-            "stars": 6922,
+            "stars": 6924,
             "topics": [
               "agent",
               "chatgpt",
@@ -539,8 +539,8 @@
             "id": 1098436077,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T21:21:02Z",
-            "open_issues": 108,
+            "last_commit": "2026-11-22T21:28:42Z",
+            "open_issues": 104,
             "owner": "selfpatch",
             "repo": "ros2_medkit",
             "stars": 290,
@@ -579,7 +579,7 @@
             "open_issues": 2,
             "owner": "babycommando",
             "repo": "machinascript-for-robots",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "ai",
               "arduino",
@@ -641,7 +641,7 @@
             "open_issues": 40,
             "owner": "eureka-research",
             "repo": "Eureka",
-            "stars": 3219,
+            "stars": 3217,
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
@@ -807,7 +807,7 @@
             "open_issues": 7,
             "owner": "MineDojo",
             "repo": "Voyager",
-            "stars": 7339,
+            "stars": 7341,
             "topics": [
               "embodied-learning",
               "large-language-models",
@@ -913,7 +913,7 @@
             "open_issues": 1,
             "owner": "zqc3117",
             "repo": "Spotter",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "embodied-ai",
               "llm-agent",
@@ -993,7 +993,7 @@
             "open_issues": 3,
             "owner": "RoboClaw-Robotics",
             "repo": "RoboClaw",
-            "stars": 171,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-09-16T20:36:53.494Z"
@@ -1270,6 +1270,27 @@
             "topics": []
           },
           "first_seen": "2026-08-29T01:17:38.741Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents",
+          "description": "[CVPR 2026 Findings] [Project Page] [Github] Nishad Singhi, Christian Bialas, Snehal Jauhri, Vignesh Prasad, Georgia Chalvatzaki, Marcus Rohrbach, Anna Rohrbach Technical University of Darmstadt & hessian.AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[CVPR 2026 Findings] Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents ",
+            "homepage": null,
+            "id": 1238378523,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-05-14T04:22:53Z",
+            "open_issues": 0,
+            "owner": "nishadsinghi",
+            "repo": "vegas",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-22T22:56:47.099Z"
         },
         {
           "node_type": "item",
@@ -1724,7 +1745,7 @@
             "open_issues": 270,
             "owner": "facebookresearch",
             "repo": "habitat-sim",
-            "stars": 3847,
+            "stars": 3845,
             "topics": [
               "ai",
               "computer-vision",
@@ -1779,7 +1800,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 380,
+            "stars": 381,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -1833,11 +1854,11 @@
             "id": 1454460819,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T08:28:45Z",
+            "last_commit": "2026-11-22T10:53:17Z",
             "open_issues": 0,
             "owner": "argonrobotics-ai",
             "repo": "alloy",
-            "stars": 66,
+            "stars": 69,
             "topics": [
               "ai-agents",
               "cloth-simulation",
@@ -1862,6 +1883,48 @@
             ]
           },
           "first_seen": "2026-11-14T21:47:38.036Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap",
+          "description": "[arXiv 2026.07] [Github] Youran Sun1, Jiaxuan Guo2, Xingyu Ren3, Chugang Yi1, Haizhao Yang1 1University of Maryland, College Park, 2Stanford University, 3The Chinese University of Hong Kong",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "R4R: Renormalization for Robotics - experiments for arXiv:2607.24079, effective simulator parameters measured across MuJoCo, Isaac Sim (PhysX) and MuJoCo Warp",
+            "homepage": null,
+            "id": 1450869149,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-11-13T19:57:35Z",
+            "open_issues": 0,
+            "owner": "WhymustIhaveaname",
+            "repo": "R4R",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-11-22T22:56:47.099Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Elastra: A Simulation Framework for Elastic Bodies",
+          "description": "[arXiv 2026.11] [Github] Youran Sun1, Chugang Yi1, Xingyu Ren2, Haizhao Yang1 1University of Maryland, College Park, 2The Chinese University of Hong Kong",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1409109856,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-11T04:20:33Z",
+            "open_issues": 0,
+            "owner": "WhymustIhaveaname",
+            "repo": "elastra",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-22T22:56:47.099Z"
         },
         {
           "node_type": "item",
@@ -1906,7 +1969,7 @@
             "open_issues": 114,
             "owner": "JIA-Lab-research",
             "repo": "LISA",
-            "stars": 2694,
+            "stars": 2695,
             "topics": [
               "large-language-model",
               "llm",
@@ -1942,7 +2005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:33:42.639Z",
+    "last_updated": "2026-11-22T22:56:47.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a curated list of \"Embodied AI or robot with Large Language Models\" research. Watch this repository for the latest updates! 🔥",
@@ -1950,8 +2013,8 @@
       "id": 668159220,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-11-14T01:28:45Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-22T03:38:14Z",
+      "open_issues": 1,
       "owner": "zchoi",
       "repo": "Awesome-Embodied-Robotics-and-Agent",
       "stars": 1922,
@@ -1967,7 +2030,7 @@
         "scene-understanding"
       ]
     },
-    "original_repository_sha": "0c6e0a08279fa9b49ed88b2ae34788e9c3523726",
+    "original_repository_sha": "3d7f742c95d6132a7226563147124b141e8d1729",
     "enhanced_repository": "enhansome/enhansome-Awesome-Embodied-Robotics-and-Agent",
     "enhanced_repository_description": null,
     "title": "🤖 Awesome Embodied Robotics and Agent with stars"
