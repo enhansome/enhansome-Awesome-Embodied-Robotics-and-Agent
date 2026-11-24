@@ -95,7 +95,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 * [**Large Multimodal Agents: A Survey**](https://arxiv.org/pdf/2402.15116) \[**arXiv 2024.02**] \[[**Github**](https://github.com/jun0wanan/awesome-large-multimodal-agents) ⭐ 497 | 🐛 6 | 📅 2024-09-25]<br>
   Junlin Xie<sup>♣♡</sup> Zhihong Chen<sup>♣♡</sup> Ruifei Zhang<sup>♣♡</sup> Xiang Wan<sup>♣</sup> Guanbin Li<sup>♠</sup><br> <sup>♡</sup>The Chinese University of Hong Kong, Shenzhen <sup>♣</sup>Shenzhen Research Institute of Big Data, <sup>♠</sup>Sun Yat-sen University
 
-* [**Survey on Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use**](https://engrxiv.org/preprint/view/8364) \[**engrXiv 2026.09**] \[[**Github**](https://github.com/showlab/Awesome-Multimodal-Embodied-Agent) ⭐ 295 | 🐛 0 | 📅 2026-11-19] \[[**Project Page**](https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/)]<br>
+* [**Survey on Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use**](https://engrxiv.org/preprint/view/8364) \[**engrXiv 2026.09**] \[[**Github**](https://github.com/showlab/Awesome-Multimodal-Embodied-Agent) ⭐ 296 | 🐛 0 | 📅 2026-11-19] \[[**Project Page**](https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/)]<br>
   Show Lab, National University of Singapore
 
 * [**A Survey on Efficient Vision-Language-Action Models**](https://arxiv.org/abs/2510.24795) \[**arXiv 2025.10**] \[[**Github**](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) ⭐ 212 | 🐛 0 | 📅 2026-09-10] \[[**Project Page**](https://evla-survey.github.io/)]<br>
@@ -125,13 +125,13 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Vision-Language-Action Model
 
-* [**SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**](https://arxiv.org/abs/2506.01844) \[**arXiv 2025.06**] \[[Github](https://github.com/huggingface/lerobot) ⭐ 29,030 | 🐛 1,004 | 🌐 Python | 📅 2026-11-22]<br>
+* [**SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**](https://arxiv.org/abs/2506.01844) \[**arXiv 2025.06**] \[[Github](https://github.com/huggingface/lerobot) ⭐ 29,053 | 🐛 1,016 | 🌐 Python | 📅 2026-11-24]<br>
   Hugging Face
 
-* [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) \[arXiv 2024.01] \[[Github](https://github.com/openvla/openvla) ⭐ 7,332 | 🐛 117 | 🌐 Python | 📅 2025-03-23]\[[Project page](https://openvla.github.io/)]\[[HuggingFace🤗](https://huggingface.co/openvla)]<br>
+* [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) \[arXiv 2024.01] \[[Github](https://github.com/openvla/openvla) ⭐ 7,337 | 🐛 117 | 🌐 Python | 📅 2025-03-23]\[[Project page](https://openvla.github.io/)]\[[HuggingFace🤗](https://huggingface.co/openvla)]<br>
   Stanford University, UC Berkeley, Toyota Research Institute, Google Deepmind, Physical Intelligence, MIT
 
-* [**Igniting VLMs toward the Embodied Space (Wall-OSS)**](https://arxiv.org/abs/2509.11766) \[**arXiv 2025.09**] \[[Github](https://github.com/X-Square-Robot/wall-x) ⭐ 1,337 | 🐛 54 | 🌐 Python | 📅 2026-09-18]<br>
+* [**Igniting VLMs toward the Embodied Space (Wall-OSS)**](https://arxiv.org/abs/2509.11766) \[**arXiv 2025.09**] \[[Github](https://github.com/X-Square-Robot/wall-x) ⭐ 1,343 | 🐛 54 | 🌐 Python | 📅 2026-09-18]<br>
   Galbot
 
 * [**ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning**](https://arxiv.org/abs/2602.11236) \[**arXiv 2026**] \[[Github](https://github.com/amap-cvlab/ABot-Manipulation) ⭐ 712 | 🐛 9 | 🌐 Python | 📅 2026-07-22]\[[Project page](https://amap-cvlab.github.io/ABot-Manipulation/)]<br>
@@ -140,10 +140,10 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 * [**Robotic Control via Embodied Chain-of-Thought Reasoning**](https://openreview.net/pdf?id=S70MgnIA0v) \[**CoRL 2024**] \[[Github](https://github.com/MichalZawalski/embodied-CoT/) ⭐ 419 | 🐛 16 | 🌐 Python | 📅 2025-04-05]\[[Project page](https://embodied-cot.github.io/)]\[[HuggingFace🤗](https://huggingface.co/Embodied-CoT)]<br>
   Michał Zawalski<sup>∗1,2</sup>, William Chen<sup>∗1</sup>, Karl Pertsch<sup>1,3</sup> Oier Mees<sup>1</sup>, Chelsea Finn<sup>3</sup>, Sergey Levine<sup>1</sup><br> <sup>1</sup>UC Berkeley, <sup>2</sup>University of Warsaw, <sup>3</sup>Stanford University
 
-* [**MolmoAct: Action Reasoning Models that can Reason in Space**](https://arxiv.org/abs/2508.07917) \[**arXiv 2025.08**] \[[Github](https://github.com/allenai/molmoact) ⭐ 394 | 🐛 3 | 🌐 Python | 📅 2026-05-11]<br>
+* [**MolmoAct: Action Reasoning Models that can Reason in Space**](https://arxiv.org/abs/2508.07917) \[**arXiv 2025.08**] \[[Github](https://github.com/allenai/molmoact) ⭐ 395 | 🐛 3 | 🌐 Python | 📅 2026-05-11]<br>
   Allen Institute for AI (AI2)
 
-* [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) \[**arXiv 2025.03**] \[[Github](https://github.com/zwq2018/embodied_reasoner) ⭐ 268 | 🐛 9 | 🌐 Python | 📅 2026-11-18] \[[Project Page](https://embodied-reasoner.github.io/)] \[[HuggingFace🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] <br>
+* [**Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks**](https://arxiv.org/abs/2503.21696) \[**arXiv 2025.03**] \[[Github](https://github.com/ZJU-OmniAI/Embodied-Omni) ⭐ 269 | 🐛 9 | 🌐 Python | 📅 2026-11-18] \[[Project Page](https://embodied-reasoner.github.io/)] \[[HuggingFace🤗](https://huggingface.co/datasets/zwq2018/embodied_reasoner)] <br>
   Zhejiang University; Institute of Software, Chinese Academy of Sciences; Alibaba Group
 
 * [**D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI**](https://arxiv.org/abs/2510.05684) \[**ICLR 2026**] \[[Github](https://github.com/worv-ai/D2E) ⭐ 96 | 🐛 4 | 🌐 Python | 📅 2026-07-16]\[[Project page](https://worv-ai.github.io/d2e/)]\[[HuggingFace🤗](https://huggingface.co/papers/2510.05684)]<br>
@@ -179,7 +179,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Self-Evolving Agents
 
-* [**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532) \[**arXiv 2024.06**] \[[**Github**](https://github.com/aiwaves-cn/agents) ⭐ 5,964 | 🐛 68 | 🌐 Python | 📅 2024-09-26]<br>
+* [**Symbolic Learning Enables Self-Evolving Agents**](https://arxiv.org/pdf/2406.18532) \[**arXiv 2024.06**] \[[**Github**](https://github.com/aiwaves-cn/agents) ⭐ 5,965 | 🐛 68 | 🌐 Python | 📅 2024-09-26]<br>
   Wangchunshu Zhou, Yixin Ou, Shengwei Ding, Long Li, Jialong Wu, Tiannan Wang, Jiamin Chen, Shuai Wang, Xiaohua Xu, Ningyu Zhang, Huajun Chen, Yuchen Eleanor Jiang<br>
   AIWaves Inc.
   <https://meta-control-paper.github.io/>
@@ -204,20 +204,20 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Advanced Agent Applications
 
-* [**Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration**](https://arxiv.org/pdf/2406.01014) \[**arXiv 2024**] \[[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ⭐ 9,396 | 🐛 198 | 🌐 Python | 📅 2026-11-03]<br>
+* [**Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration**](https://arxiv.org/pdf/2406.01014) \[**arXiv 2024**] \[[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ⭐ 9,399 | 🐛 198 | 🌐 Python | 📅 2026-11-03]<br>
   Junyang Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Haitao Jia<sup>1</sup>, Xi Zhang<sup>2</sup>, Ming Yan<sup>2</sup>, Weizhou Shen<sup>2</sup>, Ji Zhang<sup>2</sup>, Fei Huang<sup>2</sup>, Jitao Sang<sup>1</sup><br> <sup>1</sup>Beijing Jiaotong University <sup>2</sup>Alibaba Group
 
-* [**Mobile-Agent: The Powerful Mobile Device Operation Assistant Family**](https://arxiv.org/pdf/2406.01014) \[**ICLR 2024 Workshop LLM Agents**] \[[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ⭐ 9,396 | 🐛 198 | 🌐 Python | 📅 2026-11-03]<br>
+* [**Mobile-Agent: The Powerful Mobile Device Operation Assistant Family**](https://arxiv.org/pdf/2406.01014) \[**ICLR 2024 Workshop LLM Agents**] \[[**Github**](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2) ⭐ 9,399 | 🐛 198 | 🌐 Python | 📅 2026-11-03]<br>
   Junyang Wang<sup>1</sup>, Haiyang Xu<sup>2</sup>, Jiabo Ye<sup>2</sup>, Ming Yan<sup>2</sup>, Weizhou Shen<sup>2</sup>, Ji Zhang<sup>2</sup>, Fei Huang<sup>2</sup>, Jitao Sang<sup>1</sup><br> <sup>1</sup>Beijing Jiaotong University <sup>2</sup>Alibaba Group
 
-* [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/pdf/2312.13771.pdf) \[[**Project page**](https://appagent-official.github.io/)] \[[**Github**](https://github.com/mnotgod96/AppAgent) ⭐ 6,924 | 🐛 100 | 🌐 Python | 📅 2025-03-19] <br>
+* [**AppAgent: Multimodal Agents as Smartphone Users**](https://arxiv.org/pdf/2312.13771.pdf) \[[**Project page**](https://appagent-official.github.io/)] \[[**Github**](https://github.com/TencentQQGYLab/AppAgent) ⭐ 6,924 | 🐛 100 | 🌐 Python | 📅 2025-03-19] <br>
   Chi Zhang∗ ZhaoYang∗ JiaxuanLiu∗ YuchengHan XinChen Zebiao Huang BinFu GangYu†<br>
   Tencent
 
 * \[**Embodied-agents**] \[[**Github**](https://github.com/mbodiai/embodied-agents) ⭐ 302 | 🐛 17 | 🌐 Python | 📅 2025-12-16] <br>
   Seamlessly integrate state-of-the-art transformer models into robotics stacks.
 
-* \[**ros2\_medkit**] \[[**Github**](https://github.com/selfpatch/ros2_medkit) ⭐ 290 | 🐛 104 | 🌐 C++ | 📅 2026-11-22] \[[**MCP Server**](https://github.com/selfpatch/ros2_medkit_mcp) ⭐ 6 | 🐛 7 | 🌐 Python | 📅 2026-09-02] <br>
+* \[**ros2\_medkit**] \[[**Github**](https://github.com/selfpatch/ros2_medkit) ⭐ 290 | 🐛 105 | 🌐 C++ | 📅 2026-11-23] \[[**MCP Server**](https://github.com/selfpatch/ros2_medkit_mcp) ⭐ 6 | 🐛 7 | 🌐 Python | 📅 2026-09-02] <br>
   LLM-powered robot diagnostics for ROS 2 — fault detection, root cause analysis, and self-healing via MCP.
 
 * \[**Machinascript-for-robots**] \[[**Github**](https://github.com/babycommando/machinascript-for-robots) ⭐ 200 | 🐛 2 | 🌐 Python | 📅 2024-09-28] <br>
@@ -234,7 +234,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### LLMs with RL or World Model
 
-* [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://eureka-research.github.io/assets/eureka_paper.pdf) \[**NeurIPS 2023 Workshop ALOE Spotlight**] \[[**Project page**](https://eureka-research.github.io/)] \[[**Github**](https://github.com/eureka-research/Eureka) ⭐ 3,217 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-05-03] <br>
+* [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://eureka-research.github.io/assets/eureka_paper.pdf) \[**NeurIPS 2023 Workshop ALOE Spotlight**] \[[**Project page**](https://eureka-research.github.io/)] \[[**Github**](https://github.com/eureka-research/Eureka) ⭐ 3,219 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2024-05-03] <br>
   Jason Ma<sup>1,2</sup>, William Liang<sup>2</sup>, Guanzhi Wang<sup>1,3</sup>, De-An Huang<sup>1</sup>,
   Osbert Bastani<sup>2</sup>, Dinesh Jayaraman<sup>2</sup>, Yuke Zhu<sup>1,4</sup>, Linxi "Jim" Fan<sup>1</sup>, Anima Anandkumar<sup>1,3</sup><br> <sup>1</sup>NVIDIA; <sup>2</sup>UPenn; <sup>3</sup>Caltech; <sup>4</sup>UT Austin
 
@@ -300,10 +300,10 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Planning and Manipulation or Pretraining
 
-* [**Voyager: An Open-Ended Embodied Agent with Large Language Models**](https://openreview.net/attachment?id=pAMNKGwja6\&name=pdf) \[**NeurIPS 2023 Workshop ALOE Spotlight**] \[[**Project page**](https://voyager.minedojo.org/)] [\[**Github**\]](https://github.com/MineDojo/Voyager) ⭐ 7,341 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03 <br>
+* [**Voyager: An Open-Ended Embodied Agent with Large Language Models**](https://openreview.net/attachment?id=pAMNKGwja6\&name=pdf) \[**NeurIPS 2023 Workshop ALOE Spotlight**] \[[**Project page**](https://voyager.minedojo.org/)] [\[**Github**\]](https://github.com/MineDojo/Voyager) ⭐ 7,340 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03 <br>
   Guanzhi Wang<sup>1,2</sup>, Yuqi Xie<sup>3</sup>, Yunfan Jiang<sup>4</sup>, Ajay Mandlekar<sup>1</sup>, Chaowei Xiao<sup>1,5</sup>, Yuke Zhu<sup>1,3</sup>, Linxi Fan<sup>1</sup>, Anima Anandkumar<sup>1,2</sup> <sup>1</sup>NVIDIA, <sup>2</sup>Caltech, <sup>3</sup>UT Austin, <sup>4</sup>Stanford, <sup>5</sup>UW Madison
 
-* [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) \[**arXiv 2023**] [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social\&label=Code+Stars)](https://github.com/UMass-Foundation-Model/3D-LLM) ⭐ 1,217 | 🐛 31 | 🌐 Python | 📅 2024-06-06 <br> <sup>1</sup>Yining Hong, <sup>2</sup>Haoyu Zhen, <sup>3</sup>Peihao Chen, <sup>4</sup>Shuhong Zheng, <sup>5</sup>Yilun Du, <sup>6</sup>Zhenfang Chen, <sup>6,7</sup>Chuang Gan <br> <sup>1</sup>UCLA       <sup>2</sup> SJTU       <sup>3</sup> SCUT       <sup>4</sup> UIUC       <sup>5</sup> MIT       <sup>6</sup>MIT-IBM Watson AI Lab       <sup>7</sup> Umass Amherst
+* [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) \[**arXiv 2023**] [![](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM?style=social\&label=Code+Stars)](https://github.com/UMass-Embodied-AGI/3D-LLM) ⭐ 1,217 | 🐛 31 | 🌐 Python | 📅 2024-06-06 <br> <sup>1</sup>Yining Hong, <sup>2</sup>Haoyu Zhen, <sup>3</sup>Peihao Chen, <sup>4</sup>Shuhong Zheng, <sup>5</sup>Yilun Du, <sup>6</sup>Zhenfang Chen, <sup>6,7</sup>Chuang Gan <br> <sup>1</sup>UCLA       <sup>2</sup> SJTU       <sup>3</sup> SCUT       <sup>4</sup> UIUC       <sup>5</sup> MIT       <sup>6</sup>MIT-IBM Watson AI Lab       <sup>7</sup> Umass Amherst
 
 * [**Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**](https://arxiv.org/pdf/2201.07207.pdf) \[**arXiv 2022**] \[[**Github**](https://github.com/huangwl18/language-planner) ⭐ 282 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-05-16] \[[**Project page**](https://wenlong.page/language-planner/)] <br>
   Wenlong Huang<sup>1</sup>, Pieter Abbeel<sup>1</sup>, Deepak Pathak<sup>2</sup>, Igor Mordatch<sup>3</sup><br> <sup>1</sup>UC Berkeley, <sup>2</sup>Carnegie Mellon University, <sup>3</sup>Google
@@ -311,7 +311,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 * [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) \[**Arxiv 2025**] \[[**Project Page**](https://zhoues.github.io/RoboRefer/)] \[[**Code**](https://github.com/Zhoues/RoboRefer) ⭐ 270 | 🐛 16 | 🌐 Python | 📅 2025-12-16]<br>
   Enshen Zhou<sup>1,2,*</sup>, Jingkun An<sup>1,*</sup>, Cheng Chi<sup>2,\*</sup><br> <sup>1</sup>Beihang University, <sup>2</sup>Beijing Academy of Artificial Intelligence
 
-* [**Spotter: Let the Embodied Model Lead, and the VLM Reflect for It**](https://arxiv.org/abs/2609.36808) \[**arXiv 2026.09**] \[[**Project Page**](https://zqc3117.github.io/Spotter/)] \[[**Github**](https://github.com/zqc3117/Spotter) ⭐ 231 | 🐛 1 | 🌐 Python | 📅 2026-11-16]<br>
+* [**Spotter: Let the Embodied Model Lead, and the VLM Reflect for It**](https://arxiv.org/abs/2609.36808) \[**arXiv 2026.09**] \[[**Project Page**](https://zqc3117.github.io/Spotter/)] \[[**Github**](https://github.com/zqc3117/Spotter) ⭐ 232 | 🐛 1 | 🌐 Python | 📅 2026-11-16]<br>
   Long Li, Qichao Zhao, Yue Yang, Fan Xu, Zhe Wang, Alan Wee-Chung Liew, Chao Qu, Heng Tao Shen, Shirui Pan<br>
 
 * [**LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models**](https://arxiv.org/pdf/2212.04088.pdf) \[**ICCV 2023**] \[[**Project page**](https://dki-lab.github.io/LLM-Planner/)] \[[**Github**](https://github.com/OSU-NLP-Group/LLM-Planner) ⭐ 226 | 🐛 2 | 🌐 C | 📅 2025-03-26]<br>
@@ -326,7 +326,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 * [**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**](https://arxiv.org/abs/2411.16537) \[**CVPR 2025 (Oral)**] \[[**Project Page**](https://chanh.ee/RoboSpatial/)] \[[**Code**](https://github.com/NVlabs/RoboSpatial) ⭐ 157 | 🐛 0 | 🌐 Python | 📅 2026-06-17]<br>
   Chan Hee Song<sup>1</sup>, Valts Blukis<sup>2</sup>, Jonathan Tremblay<sup>2</sup>, Stephen Tyree<sup>2</sup>, Yu Su<sup>1</sup>, Stan Birchfield<sup>2</sup><br> <sup>1</sup>The Ohio State University, <sup>2</sup>NVIDIA
 
-* [**Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**](https://arxiv.org/abs/2402.17574) \[**ACL 2024**]\[[**Github**](https://github.com/zwq2018/Agent-Pro) ⭐ 135 | 🐛 3 | 🌐 Python | 📅 2026-10-26] <br>
+* [**Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**](https://arxiv.org/abs/2402.17574) \[**ACL 2024**]\[[**Github**](https://github.com/ZJU-OmniAI/Agent-Pro) ⭐ 135 | 🐛 3 | 🌐 Python | 📅 2026-10-26] <br>
   Wenqi Zhang, Ke Tang, Hai Wu, Mengna Wang, Yongliang Shen, Guiyang Hou, Zeqi Tan, Peng Li, Yueting Zhuang, Weiming Lu
 
 * [**Language Models Meet World Models: Embodied Experiences Enhance Language Models**](https://arxiv.org/pdf/2305.10626.pdf) \[**arXiv 2023**] [![](https://img.shields.io/github/stars/szxiangjn/world-model-for-language-model?style=social\&label=Code+Stars)](https://github.com/szxiangjn/world-model-for-language-model) ⭐ 134 | 🐛 6 | 🌐 Python | 📅 2024-07-10 \[[**Twitter**](https://twitter.com/szxiangjn/status/1659399771126370304)]<br>
@@ -471,7 +471,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Multi-Agent Learning and Coordination
 
-* [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://openreview.net/forum?id=EnXJfQqy0K) \[**ICLR 2024**] \[[**Project page**](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] \[[**Github**](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/) ⭐ 319 | 🐛 6 | 🌐 Python | 📅 2025-03-30]<br>
+* [**Building Cooperative Embodied Agents Modularly with Large Language Models**](https://openreview.net/forum?id=EnXJfQqy0K) \[**ICLR 2024**] \[[**Project page**](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] \[[**Github**](https://github.com/UMass-Embodied-AGI/CoELA/) ⭐ 319 | 🐛 6 | 🌐 Python | 📅 2025-03-30]<br>
   Hongxin Zhang<sup>1\*</sup>, Weihua Du<sup>2\*</sup>, Jiaming Shan<sup>3</sup>, Qinhong Zhou<sup>1</sup>, Yilun Du<sup>4</sup>, Joshua B. Tenenbaum<sup>4</sup>, Tianmin Shu<sup>4</sup>, Chuang Gan<sup>1,5</sup><br> <sup>1</sup>University of Massachusetts Amherst, <sup>2</sup>Tsinghua University, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>MIT, <sup>5</sup>MIT-IBM Watson AI Lab
 
 * [**Communication-Efficient Desire Alignment for Embodied Agent-Human Adaptation**](https://arxiv.org/abs/2505.22503) \[**ACL 2026 (Oral)**]<br>
@@ -574,7 +574,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 * [**RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**](https://arxiv.org/pdf/2311.01455.pdf) \[**arXiv 2023**] \[[**Project page**](https://robogen-ai.github.io/)] \[[**Github**](https://github.com/Genesis-Embodied-AI/RoboGen) ⭐ 1,231 | 🐛 6 | 🌐 Python | 📅 2024-05-31] <br>
   Yufei Wang<sup>1</sup>, Zhou Xian<sup>1</sup>, Feng Chen<sup>2</sup>, Tsun-Hsuan Wang<sup>3</sup>, Yian Wang<sup>4</sup>, Katerina Fragkiadaki<sup>1</sup>, Zackory Erickson<sup>1</sup>, David Held<sup>1</sup>, Chuang Gan<sup>4,5</sup> <br> <sup>1</sup>CMU, <sup>2</sup>Tsinghua IIIS, <sup>3</sup>MIT CSAIL, <sup>4</sup>UMass Amherst, <sup>5</sup>MIT-IBM AI Lab
 
-* [**ALFWorld: Aligning Text and Embodied Environments for Interactive Learning**](https://openreview.net/pdf?id=0IOX0YcCdTn) \[**ICLR 2021**] \[[**Project page**](https://alfworld.github.io/)] \[[**Github**](https://github.com/alfworld/alfworld) ⭐ 921 | 🐛 16 | 🌐 Python | 📅 2026-02-08] <br>
+* [**ALFWorld: Aligning Text and Embodied Environments for Interactive Learning**](https://openreview.net/pdf?id=0IOX0YcCdTn) \[**ICLR 2021**] \[[**Project page**](https://alfworld.github.io/)] \[[**Github**](https://github.com/alfworld/alfworld) ⭐ 923 | 🐛 17 | 🌐 Python | 📅 2026-02-08] <br>
   Mohit Shridhar<sup>†</sup> Xingdi Yuan<sup>♡</sup> Marc-Alexandre Côté<sup>♡</sup>
   Yonatan Bisk<sup>‡</sup> Adam Trischler<sup>♡</sup> Matthew Hausknecht<sup>♣</sup><br> <sup>‡</sup>University of Washington <sup>♡</sup>Microsoft Research, Montréal <sup>‡</sup>Carnegie Mellon University <sup>♣</sup>Microsoft Research
 
@@ -587,7 +587,7 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
   Jesse Thomason<sup>1</sup> Daniel Gordon<sup>1</sup> Yonatan Bisk<sup>1,2,3</sup>
   Winson Han<sup>3</sup> Roozbeh Mottaghi<sup>1,3</sup> Luke Zettlemoyer<sup>1</sup> Dieter Fox<sup>1,4</sup><br> <sup>1</sup>Paul G. Allen School of Computer Sci. & Eng., Univ. of Washington, <sup>2</sup>Language Technologies Institute @ Carnegie Mellon University, <sup>3</sup>Allen Institute for AI, <sup>4</sup>NVIDIA<br>
 
-* [**EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks**](https://arxiv.org/abs/2609.28236) \[**arXiv 2026.09**] \[[**Github**](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory) ⭐ 268 | 🐛 9 | 🌐 Python | 📅 2026-11-18] \[[**Project Page**](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]<br>
+* [**EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks**](https://arxiv.org/abs/2609.28236) \[**arXiv 2026.09**] \[[**Github**](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory) ⭐ 269 | 🐛 9 | 🌐 Python | 📅 2026-11-18] \[[**Project Page**](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/)]<br>
   Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu, Qinfeng Li, Peng Li, Jintao Chen, Xuhong Zhang, and Wenqi Zhang<br>
   Zhejiang University, Central South University, Institute of Software, Chinese Academy of Sciences
 
@@ -629,19 +629,19 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Simulator
 
-* [**Habitat: A Platform for Embodied AI Research**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf) \[**ICCV 2019**] \[[**Project page**](https://aihabitat.org/)] \[[**Habitat-Sim**](https://github.com/facebookresearch/habitat-sim) ⚠️ Archived] \[[**Habitat-Lab**](https://github.com/facebookresearch/habitat-lab) ⭐ 3,189 | 🐛 390 | 🌐 Python | 📅 2026-05-07] \[[**Habitat Challenge**](https://github.com/facebookresearch/habitat-challenge) ⚠️ Archived]<br>
+* [**Habitat: A Platform for Embodied AI Research**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.pdf) \[**ICCV 2019**] \[[**Project page**](https://aihabitat.org/)] \[[**Habitat-Sim**](https://github.com/facebookresearch/habitat-sim) ⚠️ Archived] \[[**Habitat-Lab**](https://github.com/facebookresearch/habitat-lab) ⭐ 3,191 | 🐛 390 | 🌐 Python | 📅 2026-05-07] \[[**Habitat Challenge**](https://github.com/facebookresearch/habitat-challenge) ⚠️ Archived]<br>
   Facebook AI Research, Facebook Reality Labs, Georgia Institute of Technology, Simon Fraser University, Intel Labs, UC Berkeley<br>
 
 * [**AI2-THOR: An Interactive 3D Environment for Visual AI**](https://arxiv.org/abs/1712.05474) \[**arXiv 2022**] \[[**Project page**](http://ai2thor.allenai.org/)] \[[**Github**](https://github.com/allenai/ai2thor) ⭐ 1,832 | 🐛 281 | 🌐 C# | 📅 2025-11-04]<br>
   Allen Institute for AI, University of Washington, Stanford University, Carnegie Mellon University<br>
 
-* [**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**](https://arxiv.org/abs/2412.20977) \[**ICCV 2025 (Highlight)**] \[[**Project page**](https://unrealzoo.site/)] \[[**Github**](https://github.com/UnrealZoo/unrealzoo-gym) ⭐ 381 | 🐛 13 | 🌐 Python | 📅 2026-10-17]<br>
+* [**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**](https://arxiv.org/abs/2412.20977) \[**ICCV 2025 (Highlight)**] \[[**Project page**](https://unrealzoo.site/)] \[[**Github**](https://github.com/UnrealZoo/unrealzoo-gym) ⭐ 382 | 🐛 13 | 🌐 Python | 📅 2026-10-17]<br>
   Fangwei Zhong<sup>1,6</sup>, Kui Wu<sup>2</sup>, Churan Wang<sup>3</sup>, Hao Chen<sup>4</sup>, Hai Ci<sup>5</sup>, Zhoujun Li<sup>2</sup>, Yizhou Wang<sup>3</sup><br> <sup>1</sup>Beijing Normal University, <sup>2</sup>Beihang University, <sup>3</sup>Peking University, <sup>4</sup>City University of Macau, <sup>5</sup>National University of Singapore, <sup>6</sup>Beijing Institute for General Artificial Intelligence
 
 * [**LEGENT: Open Platform for Embodied Agents**](https://arxiv.org/pdf/2404.18243) \[**ACL 2024**] \[[**Project page**](https://docs.legent.ai/)] \[[**Github**](https://github.com/thunlp/LEGENT) ⭐ 340 | 🐛 9 | 🌐 Python | 📅 2025-01-12]<br>
   Tsinghua University<br>
 
-* [**Alloy: A Multi-Material Physics Engine for Robot Learning**](https://arxiv.org/abs/2611.16312) \[**arXiv 2026.11**] \[[**Github**](https://github.com/argonrobotics-ai/alloy) ⭐ 69 | 🐛 0 | 🌐 Python | 📅 2026-11-22] \[[**Project Page**](https://alloy.argonrobotics.ai/)]<br>
+* [**Alloy: A Multi-Material Physics Engine for Robot Learning**](https://arxiv.org/abs/2611.16312) \[**arXiv 2026.11**] \[[**Github**](https://github.com/argonrobotics-ai/alloy) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2026-11-22] \[[**Project Page**](https://alloy.argonrobotics.ai/)]<br>
   Pranay Gupta and Deepanshu Rohilla<br>
   Argon Robotics
 
@@ -659,13 +659,13 @@ Figure 1. **The Organization of Our Survey.** We systematically categorize effic
 
 > ### Others
 
-* [**React: Synergizing reasoning and acting in language models**](https://arxiv.org/pdf/2210.03629.pdf) \[**ICLR 2023**] [![](https://img.shields.io/github/stars/ysymyth/ReAct?style=social\&label=Code+Stars)](https://github.com/ysymyth/ReAct) ⭐ 4,292 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06 <br>
+* [**React: Synergizing reasoning and acting in language models**](https://arxiv.org/pdf/2210.03629.pdf) \[**ICLR 2023**] [![](https://img.shields.io/github/stars/ysymyth/ReAct?style=social\&label=Code+Stars)](https://github.com/ysymyth/ReAct) ⭐ 4,293 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06 <br>
   Shunyu Yao<sup>1∗</sup>, Jeffrey Zhao<sup>2</sup>, Dian Yu<sup>2</sup>, Nan Du<sup>2</sup>, Izhak Shafran<sup>2</sup>, Karthik Narasimhan<sup>1</sup>, Yuan Cao<sup>2</sup> <br> <sup>1</sup>Department of Computer Science, Princeton University <sup>2</sup>, Google Research, Brain team
 
-* [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) \[**arXiv 2023**] \[[**Github**](https://github.com/dvlab-research/LISA) ⭐ 2,695 | 🐛 114 | 🌐 Python | 📅 2025-02-16] \[[**Huggingface Models**](https://huggingface.co/xinlai)] \[[**Dataset**](https://drive.google.com/drive/folders/125mewyg5Ao6tZ3ZdJ-1-E3n04LGVELqy?usp=sharing)] \[[**Online Demo**](http://103.170.5.190:7860/)]\
+* [**LISA: Reasoning Segmentation via Large Language Model**](https://arxiv.org/pdf/2308.00692.pdf) \[**arXiv 2023**] \[[**Github**](https://github.com/JIA-Lab-research/LISA) ⭐ 2,695 | 🐛 114 | 🌐 Python | 📅 2025-02-16] \[[**Huggingface Models**](https://huggingface.co/xinlai)] \[[**Dataset**](https://drive.google.com/drive/folders/125mewyg5Ao6tZ3ZdJ-1-E3n04LGVELqy?usp=sharing)] \[[**Online Demo**](http://103.170.5.190:7860/)]\
   TXin Lai<sup>1</sup> Zhuotao Tian<sup>2</sup> Yukang Chen<sup>1</sup> Yanwei Li<sup>1</sup> Yuhui Yuan<sup>3</sup> Shu Liu<sup>2</sup> Jiaya Jia<sup>1,2</sup> <br> <sup>1</sup>The Chinese University of Hong Kong <sup>2</sup>SmartMore <sup>3</sup>MSRA<br>
 
-* [**MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) \[**NeurIPS 2022**] \[[Github](https://github.com/MineDojo/MineDojo) ⭐ 2,285 | 🐛 82 | 🌐 Java | 📅 2024-03-18] [![](https://img.shields.io/github/stars/MineDojo/MineDojo?style=social\&label=Code+Stars)](https://github.com/MineDojo/MineDojo) ⭐ 2,285 | 🐛 82 | 🌐 Java | 📅 2024-03-18 \[[Project page](https://minedojo.org/)] \[[Knowledge Base](https://minedojo.org/knowledge_base.html)] <br>
+* [**MINEDOJO: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**](https://proceedings.neurips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf) \[**NeurIPS 2022**] \[[Github](https://github.com/MineDojo/MineDojo) ⭐ 2,286 | 🐛 82 | 🌐 Java | 📅 2024-03-18] [![](https://img.shields.io/github/stars/MineDojo/MineDojo?style=social\&label=Code+Stars)](https://github.com/MineDojo/MineDojo) ⭐ 2,286 | 🐛 82 | 🌐 Java | 📅 2024-03-18 \[[Project page](https://minedojo.org/)] \[[Knowledge Base](https://minedojo.org/knowledge_base.html)] <br>
   Linxi Fan<sup>1</sup>
   , Guanzhi Wang<sup>2∗</sup>
   , Yunfan Jiang<sup>3\*</sup>
@@ -733,4 +733,4 @@ Thanks to everyone who has contributed to this repository! Special thanks to tho
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
